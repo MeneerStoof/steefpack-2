@@ -1,0 +1,103 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "introduction"
+	group: "1EF4E84771D58ACD"
+	icon: {
+		id: "minecraft:iron_pickaxe"
+	}
+	id: "13091ECFCEC315B7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "ftbquests:book"
+			}
+			id: "261ED16104AEBB9E"
+			rewards: [
+				{
+					id: "79734E06DCECF81B"
+					item: {
+						count: 1
+						id: "waystones:waystone"
+					}
+					type: "item"
+				}
+				{
+					count: 5
+					id: "42F23BC6C6539C7D"
+					item: {
+						count: 1
+						id: "minecraft:bread"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				id: "34BAC07C538A8495"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["261ED16104AEBB9E"]
+			icon: {
+				id: "minecraft:compass"
+			}
+			id: "6CCB22888DB72C38"
+			rewards: [{
+				id: "0A3044319927790C"
+				type: "xp_levels"
+				xp_levels: 7
+			}]
+			tasks: [{
+				id: "4B9AAD748EE8E11A"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["6CCB22888DB72C38"]
+			icon: {
+				id: "minecraft:grass_block"
+			}
+			id: "70B2397E6F08C803"
+			rewards: [
+				{
+					id: "148DADC1D93E1B61"
+					item: {
+						count: 1
+						id: "minecraft:stone_pickaxe"
+					}
+					type: "item"
+				}
+				{
+					id: "2E3A43EEFBD4672D"
+					item: {
+						count: 1
+						id: "minecraft:stone_axe"
+					}
+					type: "item"
+				}
+				{
+					id: "30CE302C91EFFA7F"
+					item: {
+						count: 1
+						id: "minecraft:stone_sword"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				dimension: "minecraft:overworld"
+				id: "0E7CDC5E3AC7FF59"
+				type: "dimension"
+			}]
+			x: 3.0d
+			y: -1.5d
+		}
+	]
+}
