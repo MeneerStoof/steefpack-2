@@ -19,3 +19,5 @@ This modpack offers:
     Quest's more to come in updates
 
 This modpack is better to be played at 8GB RAM
+
+https://www.curseforge.com/minecraft/modpacks/steefpack-2
