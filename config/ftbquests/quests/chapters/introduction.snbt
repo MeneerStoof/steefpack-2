@@ -38,7 +38,7 @@
 				id: "34BAC07C538A8495"
 				type: "checkmark"
 			}]
-			x: -1.0d
+			x: -3.0d
 			y: -1.5d
 		}
 		{
@@ -56,7 +56,7 @@
 				id: "4B9AAD748EE8E11A"
 				type: "checkmark"
 			}]
-			x: 1.0d
+			x: -1.0d
 			y: -1.5d
 		}
 		{
@@ -96,8 +96,150 @@
 				id: "0E7CDC5E3AC7FF59"
 				type: "dimension"
 			}]
-			x: 3.0d
+			x: 1.0d
 			y: -1.5d
+		}
+		{
+			dependencies: ["70B2397E6F08C803"]
+			id: "3DD3FA8185BAF44B"
+			rewards: [{
+				count: 5
+				id: "66034FC9CB7AD10A"
+				item: {
+					count: 1
+					id: "minecraft:oak_log"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "1EE73B74FB5368CF"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 3.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3DD3FA8185BAF44B"]
+			id: "189DB307F0AB4FDC"
+			rewards: [{
+				id: "6ED261CCC9C3E590"
+				type: "xp_levels"
+				xp_levels: 3
+			}]
+			tasks: [{
+				id: "40D903FC9D286DB0"
+				item: { count: 1, id: "minecraft:crafting_table" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["189DB307F0AB4FDC"]
+			id: "53F0D0495A1734FD"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "08458CA9638DA207"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "0753F84DDED503EE"
+				item: { count: 1, id: "crafting_on_a_stick:crafting_table" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["189DB307F0AB4FDC"]
+			id: "02451A11D372E7E2"
+			rewards: [{
+				id: "0F98B7A28ED27FE9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "4B3761AAF770BB3E"
+				item: { count: 1, id: "minecraft:furnace" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["02451A11D372E7E2"]
+			id: "5AE1E90567FC9690"
+			shape: "diamond"
+			tasks: [{
+				id: "1E0878D8A0FEF607"
+				item: { count: 1, id: "ironfurnaces:upgrade_iron" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["70B2397E6F08C803"]
+			icon: {
+				id: "minecraft:netherrack"
+			}
+			id: "7BC82DCF9B60043D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "44A381C9ED31193B"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "007B2F4EB5C12B7A"
+				type: "dimension"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["70B2397E6F08C803"]
+			icon: {
+				id: "twilightforest:ironwood_block"
+			}
+			id: "5B054DFBD6E015F3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1D3D273271BF7057"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				dimension: "twilightforest:twilight_forest"
+				id: "72EA0952CD52D2E7"
+				type: "dimension"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7BC82DCF9B60043D"]
+			id: "6759C67F6465A39C"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "3C08CC187C871E27"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				dimension: "minecraft:the_end"
+				icon: {
+					id: "minecraft:end_stone"
+				}
+				id: "0CA7C7DC6E210915"
+				type: "dimension"
+			}]
+			x: 2.0d
+			y: 1.5d
 		}
 	]
 }
