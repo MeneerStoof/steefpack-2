@@ -5,7 +5,7 @@
 	filename: "mobs_killed"
 	group: "72E0928224C8B474"
 	id: "63775E26BC5D7587"
-	order_index: 0
+	order_index: 1
 	progression_mode: "linear"
 	quest_links: [ ]
 	quests: [

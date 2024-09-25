@@ -1,6 +1,7 @@
 {
 	chapter.09EBFA36B12CE191.title: "Mekanism"
 	chapter.13091ECFCEC315B7.title: "Introduction"
+	chapter.33129172F8F62C22.title: "When Dungeons Arise"
 	chapter.63775E26BC5D7587.title: "SteefPack: Basics"
 	chapter.6AADF526B785AD13.title: "Extreme Reactors"
 	chapter_group.1EF4E84771D58ACD.title: "Basics"
@@ -13,6 +14,7 @@
 	quest.0AB3E518A21B2675.title: "Get your first casing!"
 	quest.10C9316CF276E46D.quest_subtitle: "Walk a lot of blocks"
 	quest.10C9316CF276E46D.title: "1,000,000 blocks"
+	quest.189DB307F0AB4FDC.quest_desc: ["This is a must have because this is Minecraft not Craft"]
 	quest.189DB307F0AB4FDC.quest_subtitle: "or Crafting Table if you prefer that"
 	quest.189DB307F0AB4FDC.title: "Make a workbench"
 	quest.261ED16104AEBB9E.quest_desc: [
@@ -29,7 +31,7 @@
 		""
 		"- &lNielsjuh01&r (Pack Dev)"
 		"- &lAthanorite&r (Pack Dev)"
-		"- &lMeikieGames&r (Tester)"
+		"- &lMeikiesGames&r (Tester)"
 	]
 	quest.261ED16104AEBB9E.quest_subtitle: "Welcome to SteefPack 2"
 	quest.261ED16104AEBB9E.title: "Welcome"
@@ -48,6 +50,7 @@
 	quest.3DD3FA8185BAF44B.quest_subtitle: "Punch a tree"
 	quest.3DD3FA8185BAF44B.title: "Get started"
 	quest.421FE95F5C123383.title: "Time to get power!"
+	quest.49D6B419D6B907D5.title: "Mining Dim (Overworld)"
 	quest.4F531AAD58F55DF0.quest_subtitle: "Smelt a Uranium Ingot"
 	quest.4F531AAD58F55DF0.title: "The Most Important Item!"
 	quest.5369A28C3CF43C36.quest_subtitle: "Your first Uranium and Fluorite"
@@ -60,6 +63,7 @@
 	quest.5B054DFBD6E015F3.quest_desc: ["Go to the twilight forest and explore there to your heart content"]
 	quest.5B054DFBD6E015F3.quest_subtitle: "Dawn or Dusk?"
 	quest.5B054DFBD6E015F3.title: "Twilight Forest"
+	quest.65D93C26112DF787.title: "Mining Dim (Nether)"
 	quest.6759C67F6465A39C.quest_desc: [
 		"The realm where the dragon lives."
 		"You can't go back until you defeated the dragon."
@@ -92,9 +96,13 @@
 	reward_table.75ACE7CD564553E9.title: "Basics"
 	task.0E7CDC5E3AC7FF59.title: "Welcome to your world"
 	task.1EE73B74FB5368CF.title: "Any #minecraft:logs"
+	task.24C107BA769D6CB8.title: "Abandoned Temple"
+	task.2778BCB7F46A3EB6.title: "Mining Dim (The End)"
 	task.28A1AFCE5802AFCD.title: "Teleporter"
 	task.385A10F0A1ACD776.title: "Minimap"
 	task.447A1FF930244E11.title: "The Center of the World"
+	task.44F97990F3C22AC6.title: "Aviary"
 	task.4800D5D80D3CEEAD.title: "The Classic Times"
 	task.4B9AAD748EE8E11A.title: "Usefull Commands"
+	task.5EFEBFEA03D95B48.title: "Bandit Towers"
 }

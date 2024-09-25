@@ -1,0 +1,49 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "when_dungeons_arise"
+	group: "72E0928224C8B474"
+	icon: {
+		id: "minecraft:diamond_sword"
+	}
+	id: "33129172F8F62C22"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "7EB5633DF05D1E8C"
+			rewards: [{
+				id: "176A3080F19D4A6A"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "24C107BA769D6CB8"
+				structure: "dungeons_arise:abandoned_temple"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "58206C230C0F8084"
+			tasks: [{
+				id: "44F97990F3C22AC6"
+				structure: "dungeons_arise:aviary"
+				type: "structure"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			id: "296128782296E9D4"
+			tasks: [{
+				id: "5EFEBFEA03D95B48"
+				structure: "dungeons_arise:bandit_towers"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: -1.0d
+		}
+	]
+}

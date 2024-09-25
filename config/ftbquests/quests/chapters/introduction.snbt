@@ -241,5 +241,59 @@
 			x: 2.0d
 			y: 1.5d
 		}
+		{
+			dependencies: ["70B2397E6F08C803"]
+			icon: {
+				id: "minecraft:iron_ore"
+			}
+			id: "49D6B419D6B907D5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "11A2A8D73FDB601D"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				dimension: "jamd:mining"
+				id: "47EF4C06EE846FA8"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["49D6B419D6B907D5"]
+			id: "65D93C26112DF787"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "7A57D21C4D60045B"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				dimension: "jamd:nether"
+				icon: {
+					id: "minecraft:nether_quartz_ore"
+				}
+				id: "3448DEB4E70AB5DD"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["65D93C26112DF787"]
+			id: "407B0CB9897645E7"
+			tasks: [{
+				dimension: "jamd:end"
+				icon: {
+					id: "minecraft:end_stone"
+				}
+				id: "2778BCB7F46A3EB6"
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
 	]
 }
