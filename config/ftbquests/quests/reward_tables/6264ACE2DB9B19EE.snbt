@@ -1,0 +1,47 @@
+{
+	id: "6264ACE2DB9B19EE"
+	loot_size: 1
+	order_index: 2
+	rewards: [
+		{
+			count: 3
+			item: {
+				count: 1
+				id: "justdirethings:ferricore_ingot"
+			}
+			weight: 90.0f
+		}
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "justdirethings:blazegold_ingot"
+			}
+			weight: 50.0f
+		}
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "justdirethings:celestigem"
+			}
+			weight: 12.5f
+		}
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "justdirethings:eclipsealloy_ingot"
+			}
+			weight: 5.0f
+		}
+		{
+			count: 6
+			item: {
+				count: 1
+				id: "justdirethings:upgrade_blank"
+			}
+			weight: 100.0f
+		}
+	]
+}

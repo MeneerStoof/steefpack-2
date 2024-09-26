@@ -1,0 +1,34 @@
+{
+	id: "51D51BC0C36757CB"
+	loot_size: 1
+	order_index: 3
+	rewards: [
+		{ item: { count: 1, id: "ae2:cell_component_1k" }, weight: 4.0f }
+		{ item: { count: 1, id: "ae2:cell_component_4k" } }
+		{
+			count: 4
+			item: {
+				count: 1
+				id: "ae2:fluix_glass_cable"
+			}
+			weight: 18.0f
+		}
+		{ item: { count: 1, id: "ae2:item_cell_housing" }, weight: 4.0f }
+		{
+			count: 5
+			item: {
+				count: 1
+				id: "ae2:certus_quartz_crystal"
+			}
+			weight: 16.0f
+		}
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "ae2:fluix_crystal"
+			}
+			weight: 4.0f
+		}
+	]
+}

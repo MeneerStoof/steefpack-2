@@ -1,12 +1,15 @@
 {
 	chapter.09EBFA36B12CE191.title: "Mekanism"
 	chapter.13091ECFCEC315B7.title: "Introduction"
+	chapter.1B5B7E9883FA7A92.title: "Just Dire Things"
+	chapter.2009FDF0B1122FCC.title: "Applied Energistics 2"
 	chapter.33129172F8F62C22.title: "When Dungeons Arise"
 	chapter.4B4C8D4018390F62.title: "Mekanism"
 	chapter.63775E26BC5D7587.title: "SteefPack: Basics"
 	chapter.6AADF526B785AD13.title: "Extreme Reactors"
 	chapter_group.1EF4E84771D58ACD.title: "Basics"
 	chapter_group.72E0928224C8B474.title: "Extra's"
+	chapter_group.7B70B7BD86810561.title: "Tech"
 	quest.01C2780095D3E29C.quest_desc: [
 		"This is a side option but you can make this with some of Mekanism items"
 		""
@@ -16,7 +19,7 @@
 	quest.02451A11D372E7E2.quest_desc: ["Just like vanilla"]
 	quest.02451A11D372E7E2.quest_subtitle: "Make a furnace"
 	quest.02451A11D372E7E2.title: "Smelting time"
-	quest.03136C8A20D51056.quest_desc: ["for each dungeon you get +/- 14 exp levels"]
+	quest.03136C8A20D51056.quest_desc: ["for each dungeon you get 300 exp points"]
 	quest.03136C8A20D51056.quest_subtitle: "The Main Dungeons"
 	quest.03693B5C995F4FD4.quest_desc: [
 		"This machine uses energy to extract dusts out of certain blocks and ores, making it essential to producing different kinds of tools. Not to be mistaken with the Crusher, this machine is the pulverizer equivalent in other mods."
@@ -25,8 +28,20 @@
 		"Note: Compressed Carbon is worth 100 carbon; Coal is worth 10 and Charcoal is worth 20; hence it is better to refine coal and use Compressed Carbon. "
 	]
 	quest.03693B5C995F4FD4.quest_subtitle: "For enrichting items"
-	quest.056AB66CD3611445.quest_desc: ["for each dungeon you get +/- 14 exp levels"]
+	quest.056AB66CD3611445.quest_desc: ["for each dungeon you get 300 exp points"]
 	quest.056AB66CD3611445.quest_subtitle: "The Seven Seas Addon"
+	quest.063393C529D1C14E.quest_desc: [
+		"Use &7Iron&r, &6Gold&r, &bDiamond&r or &8Netherite&r Blocks to fuse with Goo from the mod &n&lJust Dire Things&r&r"
+		""
+		"You can make upgrades with this mod just search your upgrade a put it with your Just Dire Things Armor or Tools with a &8&lSmithing Table&r&r"
+		""
+		"if you want more about this just search on Youtube &lJust Dire Things&r from &9direwolf20&r"
+	]
+	quest.063393C529D1C14E.quest_subtitle: "Read me"
+	quest.063393C529D1C14E.title: "Understanding Just Dire Things"
+	quest.0A59379E77354148.quest_desc: ["In your looting of a meteorite, you will have found four \"presses\" from breaking the Mysterious Cube. These are used in the Inscriber to make the three types of processor."]
+	quest.0A59379E77354148.quest_subtitle: "The 4 must have things"
+	quest.0A59379E77354148.title: "Breaking the Mysterios Cube"
 	quest.0A9C50167510ED68.quest_subtitle: "Create the Metallurgic Infurser"
 	quest.0A9C50167510ED68.title: "Create your Metallurgic Infuser"
 	quest.0AB3E518A21B2675.title: "Get your first casing!"
@@ -53,6 +68,14 @@
 	quest.10C700D4EE0C5D4B.quest_subtitle: "Upgrade on the machines"
 	quest.10C9316CF276E46D.quest_subtitle: "Walk a lot of blocks"
 	quest.10C9316CF276E46D.title: "1,000,000 blocks"
+	quest.132000F6873F14AB.quest_desc: [
+		"The Crafting Terminal is similar to a regular terminal, with all the same settings and sections, but with an added crafting grid that will be automatically refilled from network storage. Be careful when shift-clicking the output!"
+		""
+		"You should upgrade your terminal into a crafting terminal ASAP."
+	]
+	quest.132000F6873F14AB.quest_subtitle: "Must have for your system"
+	quest.138EC8CB86C1FA1A.quest_desc: [""]
+	quest.138EC8CB86C1FA1A.quest_subtitle: "Changes to Blazegold"
 	quest.189DB307F0AB4FDC.quest_desc: ["This is a must have because this is Minecraft not Craft"]
 	quest.189DB307F0AB4FDC.quest_subtitle: "or Crafting Table if you prefer that"
 	quest.189DB307F0AB4FDC.title: "Make a workbench"
@@ -88,6 +111,19 @@
 	quest.28BE6E22393D3079.title: "No wind turbine but sun!"
 	quest.2A9D3246C71F7B66.quest_subtitle: "Mine an Osmium Ore"
 	quest.2A9D3246C71F7B66.title: "The Beginning of Mekanism"
+	quest.2AA09582AEE89E9B.quest_desc: [
+		"To get started with Applied Energistics 2, one must first find a meteorite. These are fairly common and tend to leave massive holes in the terrain, so you've probably encountered one in your travels. If you haven't, you can craft a Meteorite Compass, which will point toward the nearest Mysterious Cube."
+		""
+		"Once you have found a meteorite, mine into its center. You will find certus quartz clusters, certus quartz buds, budding certus blocks of various types, and a Mysterious Cube in the center."
+		""
+		"Mine the certus quartz clusters and any certus quartz blocks you find. You can also pick up the budding certus blocks, but without silk touch they will degrade by 1 tier."
+		""
+		"Do not break any flawless budding certus, as even with silk touch they will degrade to flawed budding certus, and it is impossible to repair them back to flawless."
+		""
+		"Also mine the Mysterious Cube in the center of the meteorite to gain all 4 inscriber presses."
+	]
+	quest.2AA09582AEE89E9B.quest_subtitle: "Put it on your to do list"
+	quest.2AA09582AEE89E9B.title: "Find a Meteorite"
 	quest.2ACBDDCED34566D9.quest_subtitle: "Kill The Wither"
 	quest.2ACBDDCED34566D9.title: "Withered Away"
 	quest.2D121172FF49C36C.quest_desc: ["If you want to explore or do a specific mod use the other questlines from this modpack"]
@@ -134,6 +170,9 @@
 		"While active, it will output 1200 J/sec (60 J/t) through the bottom of the panel base. It has a small 96 kJ internal power buffer. This Solar Generator's low output limits its usefulness, but that isn't the case with its larger cousin, the Advanced Solar Generator. "
 	]
 	quest.43F9F2F2E04182CE.quest_subtitle: "Power of the sun"
+	quest.46890999452A4DD1.quest_desc: ["Now that you have all of the basic materials and machines for Applied Energistics 2, you can make your first ME (Matter Energy) system. This will be a very basic one, no autocrafting, no logistics, just nice, simple, searchable storage."]
+	quest.46890999452A4DD1.quest_subtitle: "Time to go into the grid"
+	quest.46890999452A4DD1.title: "Your Very First ME System"
 	quest.49D6B419D6B907D5.title: "Mining Dim (Overworld)"
 	quest.4B0A8CD17F3A5326.quest_desc: [
 		"The Osmium Ingot is acquired by smelting Osmium Ore or Osmium Dust. It is heavily used in crafting your first machines. "
@@ -145,12 +184,21 @@
 	quest.4B7EE77A33C9095E.quest_subtitle: "Tier 3"
 	quest.4F531AAD58F55DF0.quest_subtitle: "Smelt a Uranium Ingot"
 	quest.4F531AAD58F55DF0.title: "The Most Important Item!"
+	quest.531C2896425A9960.quest_desc: [
+		"This quest line is based of the wiki"
+		""
+		"&l- Steef_an&r"
+	]
+	quest.531C2896425A9960.quest_subtitle: "Read me"
+	quest.531C2896425A9960.title: "Applied Energisitics 2 Quest info"
 	quest.5369A28C3CF43C36.quest_subtitle: "Your first Uranium and Fluorite"
 	quest.5369A28C3CF43C36.title: "Get your Ores"
 	quest.53F0D0495A1734FD.quest_desc: ["Always handy for on the road and your adventure"]
 	quest.53F0D0495A1734FD.quest_subtitle: "Or make that"
 	quest.56172C8610559FC5.quest_desc: ["This is the best pickaxe from vanilla Minecraft it mines all ores and stone based stuff. Best tip is get a mending book"]
 	quest.56172C8610559FC5.quest_subtitle: "The ultimate vanilla tool"
+	quest.57E0CA3B97AB9083.quest_desc: ["The inscriber is a sided machine, much like the vanilla furnace. Inserting from the top or bottom places items in the top or bottom slots, and inserting from the side or back inserts into the center slot. Results can be pulled from the side or back."]
+	quest.57E0CA3B97AB9083.quest_subtitle: "To make your storage machine"
 	quest.5AE1E90567FC9690.quest_desc: ["This is a upgrade to the furnace if you want to smelt things faster or run it on electricy this is your thing"]
 	quest.5AE1E90567FC9690.quest_subtitle: "Iron is better than stone"
 	quest.5AE1E90567FC9690.title: "Making your Furnace better"
@@ -165,6 +213,12 @@
 		"By default, the minimum elevation is 24 and the maximum elevation is the maximum height of the dimension."
 	]
 	quest.5D99B0721908DDF1.quest_subtitle: "Power of Wind"
+	quest.5E2EBBC8A1D4B2B9.quest_desc: [
+		"Another material you will need is Fluix, which you have already encountered in making growth accelerators. It is made by throwing charged certus, redstone, and nether quartz in water. Doing this automatically is \"left as an exercise for the reader.\""
+		""
+		"The Charger is required to produce Charged Certus Quartz Crystal., if you haven't made one already."
+	]
+	quest.5E2EBBC8A1D4B2B9.quest_subtitle: "Charge Certus Quartz"
 	quest.5EDB9DD3890A948E.quest_desc: [
 		"The Advanced Solar Generator is a highly upgraded version of the basic Solar Generator. Construction of an Advanced Solar Generator requires four Solar Generators, but it produces six times the power of its smaller counterpart. It also requires an area of 3x3x3 Blocks in order to be placed. Universal Cable or other compatible wire can be connected to the side of the base with a green square or the bottom of the Generator. Right-click the generator with a wrench or Configurator set to Rotate to rotate the entire assembly."
 		""
@@ -179,7 +233,13 @@
 	]
 	quest.60487292B87CB1DC.quest_subtitle: "Steel time"
 	quest.60487292B87CB1DC.title: "Creating your first Steel and casing"
+	quest.61A50C3DF144CB71.quest_desc: [""]
+	quest.61A50C3DF144CB71.quest_subtitle: "Changes to Celestigem"
+	quest.6248EA7F64D56D20.quest_subtitle: "Changes to Eclipse"
 	quest.65D93C26112DF787.title: "Mining Dim (Nether)"
+	quest.66E1B880F79905F6.quest_desc: ["Cells can be made with a storage component and a housing or with the housing recipe around a storage component:"]
+	quest.66E1B880F79905F6.quest_subtitle: "Must have for your Disk Drive"
+	quest.66E1B880F79905F6.title: "Housings"
 	quest.6759C67F6465A39C.quest_desc: [
 		"The realm where the dragon lives."
 		"You can't go back until you defeated the dragon."
@@ -227,6 +287,8 @@
 	quest.768B763B38DFEBAF.quest_subtitle: "Tier 2"
 	quest.7752FB24B45686BB.quest_desc: [""]
 	quest.7752FB24B45686BB.quest_subtitle: "Tier 1"
+	quest.78CCB86E64B15329.quest_desc: [""]
+	quest.78CCB86E64B15329.quest_subtitle: "Changes to Ferricore"
 	quest.7BC82DCF9B60043D.quest_desc: ["The most well know realm of vanilla Minecraft"]
 	quest.7BC82DCF9B60043D.quest_subtitle: "Piglin's where?!"
 	quest.7BC82DCF9B60043D.title: "Nether"
@@ -239,9 +301,12 @@
 	]
 	quest.7FA5F5B4BEB9351B.quest_subtitle: "Read me!"
 	quest.7FA5F5B4BEB9351B.title: "Mekanism Quest info"
+	reward_table.51D51BC0C36757CB.title: "AE2"
+	reward_table.6264ACE2DB9B19EE.title: "Just Dire Things"
 	reward_table.703058E430EBD4F7.title: "Mekanism"
 	reward_table.75ACE7CD564553E9.title: "Basics"
 	task.0058143573FDE067.title: "Quest info"
+	task.03DD50872A030D8B.title: "I know"
 	task.06CF3E1002665EB0.title: "Seven Seas: Corsair Corvette"
 	task.0D2051B7845BC752.title: "Mushroom House"
 	task.0D4EB9F9FF29EB84.title: "Shiraz Palace"
@@ -289,6 +354,7 @@
 	task.4EEB98127FFEA3D5.title: "Power Options"
 	task.4F9197F6AF1B6B2B.title: "Foundry"
 	task.4F9B545516743758.title: "Small Prairie House"
+	task.4FDAC8D0E296982D.title: "Understanding"
 	task.5275CDE16ED17C87.title: "Alloys"
 	task.57BFCB6F847C4EE2.title: "When Dungeons Arise"
 	task.59267D21E85D6000.title: "Plague Asylum"
