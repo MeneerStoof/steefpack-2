@@ -1,4 +1,7 @@
 {
+	icon: {
+		id: "ae2:controller"
+	}
 	id: "51D51BC0C36757CB"
 	loot_size: 1
 	order_index: 3

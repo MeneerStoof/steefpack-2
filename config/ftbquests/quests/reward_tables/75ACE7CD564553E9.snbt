@@ -1,4 +1,7 @@
 {
+	icon: {
+		id: "minecraft:chest"
+	}
 	id: "75ACE7CD564553E9"
 	loot_size: 1
 	order_index: 0
@@ -9,7 +12,7 @@
 				count: 1
 				id: "minecraft:iron_ingot"
 			}
-			weight: 90.0f
+			weight: 47.0f
 		}
 		{
 			count: 5
@@ -17,11 +20,15 @@
 				count: 1
 				id: "minecraft:gold_ingot"
 			}
-			weight: 50.0f
+			weight: 19.0f
 		}
 		{ item: { count: 1, id: "minecraft:diamond" } }
 		{ item: { count: 1, id: "minecraft:netherite_scrap" }, weight: 0.01f }
-		{ type: "xp_levels", xp_levels: 5 }
+		{
+			type: "xp_levels"
+			weight: 66.0f
+			xp_levels: 5
+		}
 		{
 			count: 3
 			item: {
@@ -29,6 +36,45 @@
 				id: "alltheores:osmium_ingot"
 			}
 			weight: 30.0f
+		}
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "minecraft:iron_ingot"
+			}
+			weight: 62.0f
+		}
+		{ item: { count: 1, id: "minecraft:parrot_spawn_egg" }, weight: 4.0f }
+		{
+			count: 4
+			item: {
+				count: 1
+				id: "alltheores:tin_ingot"
+			}
+			weight: 18.0f
+		}
+		{
+			count: 25
+			item: {
+				count: 1
+				id: "minecraft:redstone"
+			}
+			weight: 20.0f
+		}
+		{
+			type: "xp_levels"
+			weight: 30.0f
+			xp_levels: 10
+		}
+		{ item: { components: { "relics:charge": 10, "relics:data": { abilities: { abilities: { autophagy: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { feed: { initialValue: 1.50627d } } }, infusion: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 2.58453d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:infinity_ham" }, weight: 0.1f }
+		{
+			count: 10
+			item: {
+				count: 1
+				id: "minecraft:bread"
+			}
+			weight: 25.0f
 		}
 	]
 }

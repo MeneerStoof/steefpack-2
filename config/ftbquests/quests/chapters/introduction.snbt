@@ -101,6 +101,9 @@
 		}
 		{
 			dependencies: ["70B2397E6F08C803"]
+			icon: {
+				id: "minecraft:oak_log"
+			}
 			id: "3DD3FA8185BAF44B"
 			rewards: [{
 				count: 5
@@ -351,7 +354,7 @@
 			y: 0.0d
 		}
 		{
-			dependencies: ["02451A11D372E7E2"]
+			dependencies: ["2D121172FF49C36C"]
 			id: "767D035441CC197D"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -365,10 +368,10 @@
 				type: "item"
 			}]
 			x: 10.0d
-			y: -1.5d
+			y: 0.0d
 		}
 		{
-			dependencies: ["767D035441CC197D"]
+			dependencies: ["02451A11D372E7E2"]
 			id: "2D121172FF49C36C"
 			rewards: [{
 				id: "5A452ED4F3C10CA3"
@@ -379,7 +382,7 @@
 				id: "43A1EA69DF01D55B"
 				type: "checkmark"
 			}]
-			x: 12.0d
+			x: 10.0d
 			y: -1.5d
 		}
 		{
@@ -396,8 +399,8 @@
 				item: { count: 1, id: "minecraft:diamond_pickaxe" }
 				type: "item"
 			}]
-			x: 14.0d
-			y: -1.5d
+			x: 10.0d
+			y: 1.5d
 		}
 		{
 			dependencies: ["337EAB2BEA0A93E3"]
@@ -413,8 +416,8 @@
 				item: { count: 1, id: "minecraft:netherite_pickaxe" }
 				type: "item"
 			}]
-			x: 16.0d
-			y: -1.5d
+			x: 10.0d
+			y: 3.0d
 		}
 		{
 			dependencies: ["2D121172FF49C36C"]
@@ -432,7 +435,7 @@
 				type: "item"
 			}]
 			x: 12.0d
-			y: -3.0d
+			y: -1.5d
 		}
 	]
 }

@@ -215,6 +215,7 @@
 			y: 0.5d
 		}
 		{
+			dependencies: ["2D121172FF49C36C"]
 			id: "7FA5F5B4BEB9351B"
 			rewards: [{
 				id: "552B32E7136E597D"
@@ -366,12 +367,20 @@
 		{
 			dependencies: ["01C2780095D3E29C"]
 			id: "30A548A78FB6DE09"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "2C32A6A4911CD694"
-				table_id: 8084059068226589943L
-				type: "random"
-			}]
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "2C32A6A4911CD694"
+					table_id: 8084059068226589943L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "4B225B350177E4BE"
+					table_id: 5896649801837533131L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "77E1C6F91D289490"
 				item: { count: 1, id: "mekanism:digital_miner" }
@@ -394,6 +403,12 @@
 					exclude_from_claim_all: true
 					id: "5CF0CFE7200B2653"
 					table_id: 8084059068226589943L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "657AA534073F69A8"
+					table_id: 5896649801837533131L
 					type: "random"
 				}
 			]

@@ -1,15 +1,15 @@
 {
 	chapter.09EBFA36B12CE191.title: "Mekanism"
-	chapter.13091ECFCEC315B7.title: "Introduction"
+	chapter.13091ECFCEC315B7.title: "SteefPack: Introduction"
 	chapter.1B5B7E9883FA7A92.title: "Just Dire Things"
 	chapter.2009FDF0B1122FCC.title: "Applied Energistics 2"
 	chapter.33129172F8F62C22.title: "When Dungeons Arise"
 	chapter.4B4C8D4018390F62.title: "Mekanism"
 	chapter.63775E26BC5D7587.title: "SteefPack: Basics"
 	chapter.6AADF526B785AD13.title: "Extreme Reactors"
-	chapter_group.1EF4E84771D58ACD.title: "Basics"
-	chapter_group.72E0928224C8B474.title: "Extra's"
-	chapter_group.7B70B7BD86810561.title: "Tech"
+	chapter_group.1EF4E84771D58ACD.title: "Main Questline"
+	chapter_group.72E0928224C8B474.title: "Extra Questline"
+	chapter_group.7B70B7BD86810561.title: "Tech Questline"
 	quest.01C2780095D3E29C.quest_desc: [
 		"This is a side option but you can make this with some of Mekanism items"
 		""
@@ -37,7 +37,7 @@
 		""
 		"if you want more about this just search on Youtube &lJust Dire Things&r from &9direwolf20&r"
 	]
-	quest.063393C529D1C14E.quest_subtitle: "Read me"
+	quest.063393C529D1C14E.quest_subtitle: "Information"
 	quest.063393C529D1C14E.title: "Understanding Just Dire Things"
 	quest.0A59379E77354148.quest_desc: ["In your looting of a meteorite, you will have found four \"presses\" from breaking the Mysterious Cube. These are used in the Inscriber to make the three types of processor."]
 	quest.0A59379E77354148.quest_subtitle: "The 4 must have things"
@@ -51,6 +51,9 @@
 		"By defualt, it consumes 50 J/t and processes one item every 10 seconds. "
 	]
 	quest.0AF7D7729E8E8123.quest_subtitle: "Crushing items"
+	quest.0B985020DAA87CC3.quest_desc: [""]
+	quest.0B985020DAA87CC3.quest_subtitle: "You're are too crazy to believe that 20mil blocks is nothing"
+	quest.0B985020DAA87CC3.title: "20m blocks walked"
 	quest.10C700D4EE0C5D4B.quest_desc: [
 		"Factories are advanced forms of the basic machines aimed to assist in large scale resource processing. They come in three tiers: Basic, Advanced, and Elite."
 		""
@@ -67,7 +70,7 @@
 	]
 	quest.10C700D4EE0C5D4B.quest_subtitle: "Upgrade on the machines"
 	quest.10C9316CF276E46D.quest_subtitle: "Walk a lot of blocks"
-	quest.10C9316CF276E46D.title: "1,000,000 blocks"
+	quest.10C9316CF276E46D.title: "1m blocks walked"
 	quest.132000F6873F14AB.quest_desc: [
 		"The Crafting Terminal is similar to a regular terminal, with all the same settings and sections, but with an added crafting grid that will be automatically refilled from network storage. Be careful when shift-clicking the output!"
 		""
@@ -75,7 +78,7 @@
 	]
 	quest.132000F6873F14AB.quest_subtitle: "Must have for your system"
 	quest.138EC8CB86C1FA1A.quest_desc: [""]
-	quest.138EC8CB86C1FA1A.quest_subtitle: "Changes to Blazegold"
+	quest.138EC8CB86C1FA1A.quest_subtitle: "Tier 2: Changes to Blazegold"
 	quest.189DB307F0AB4FDC.quest_desc: ["This is a must have because this is Minecraft not Craft"]
 	quest.189DB307F0AB4FDC.quest_subtitle: "or Crafting Table if you prefer that"
 	quest.189DB307F0AB4FDC.title: "Make a workbench"
@@ -127,7 +130,7 @@
 	quest.2ACBDDCED34566D9.quest_subtitle: "Kill The Wither"
 	quest.2ACBDDCED34566D9.title: "Withered Away"
 	quest.2D121172FF49C36C.quest_desc: ["If you want to explore or do a specific mod use the other questlines from this modpack"]
-	quest.2D121172FF49C36C.quest_subtitle: "Look at other questlines"
+	quest.2D121172FF49C36C.quest_subtitle: "Unlocks the Modded Quest's except Extra's"
 	quest.2E1344847A885C62.quest_desc: ["This is all the non reactor based power options"]
 	quest.2E1344847A885C62.quest_subtitle: "All The Power options"
 	quest.2F2E698D224452D0.title: "Get your basic Mettalurgic Infuser"
@@ -143,6 +146,13 @@
 	quest.32F6626F905D2D65.title: "Get your first machine"
 	quest.337EAB2BEA0A93E3.quest_desc: ["Diamond Pickaxe can't mine all things but almost everything with ores or stone based blocks are minable with this tool"]
 	quest.337EAB2BEA0A93E3.quest_subtitle: "The almost ultimate tool"
+	quest.39ACA4076BD946C4.quest_desc: [
+		"Wrenches are used to rotate ae2 devices (right-click), and disassemble ae2 blocks (shift-right-click). Subparts can be removed from a cable without breaking everything on the cable (or the cable can be removed without breaking the subparts.)"
+		""
+		"Many ae2 blocks can be rotated, so just because this guide doesn't say you can rotate something doesn't mean you can't."
+	]
+	quest.39ACA4076BD946C4.quest_subtitle: "Rotating"
+	quest.39ACA4076BD946C4.title: "Wrench"
 	quest.3AF7801F6E6C940D.quest_desc: [
 		"The Purification Chamber uses oxygen to refine Ores and shards into clumps. Each ore makes 3 clumps, whereas each shard only gives one clump."
 		""
@@ -154,12 +164,37 @@
 		"Additionally you can turn gravel into flint. "
 	]
 	quest.3AF7801F6E6C940D.quest_subtitle: "Purified Ores"
+	quest.3B801D1FA48349EE.quest_desc: [
+		"The import bus pulls items and fluids (and whatever else, given addons) from the inventory it's touching and pushes them into network storage."
+		""
+		"For purposes of lag reduction, if the import bus has not imported something recently, it goes into a sort of \"sleep mode\" where it operates slowly, and wakes up and accelerates to full speed (4 operations per second) when it successfully imports something."
+		""
+		"They are cable subparts."
+		""
+		""
+		""
+		"The export bus pulls items and fluids (and whatever else, given addons) from network storage and pushes them into the inventory it's touching."
+		""
+		"For purposes of lag reduction, if the export bus has not exported something recently, it goes into a sort of \"sleep mode\" where it operates slowly, and wakes up and accelerates to full speed (4 operations per second) when it successfully exports something."
+		""
+		"They are cable subparts."
+	]
+	quest.3B801D1FA48349EE.quest_subtitle: "For item transfering"
+	quest.3B801D1FA48349EE.title: "Importing or Exporting"
 	quest.3BDF52A0E1FE2020.title: "Get your enrichment chamber"
 	quest.3DD3FA8185BAF44B.quest_desc: ["Always begin with this just like in vanilla"]
 	quest.3DD3FA8185BAF44B.quest_subtitle: "Punch a tree"
 	quest.3DD3FA8185BAF44B.title: "Get started"
 	quest.3F14F8AA586FB9C1.quest_desc: ["The energized smelter is your basic electric furnace that uses energy instead of fuel to smelt items. "]
 	quest.3F14F8AA586FB9C1.quest_subtitle: "Alternative furnace"
+	quest.40B3FE6591FD71AC.quest_desc: [
+		"The ME Chest acts like a miniature network with a ME Terminal, ME Drive, and Energy Acceptor. While it can be used as a tiny storage network, its capacity for just one single storage cell means it has limited utility as such."
+		""
+		"Instead, it is useful for interacting with specifically the storage cell mounted inside it. Its integrated terminal can only see and access the items in the mounted drive, while devices on the general network can access items in any network storage, including ME chests."
+		""
+		"It has 2 different GUIs and is sided for item transport. Interacting with the top terminal opens the integrated terminal. Items can be inserted into the mounted storage cell through this face, but not extracted. Interacting with any other face opens the GUI with the slot for the storage cell and the priority settings. The cell can be inserted and removed by item logistics only through the face with the cell slot."
+	]
+	quest.40B3FE6591FD71AC.quest_subtitle: "Chest on the grid"
 	quest.410ABAB7FFE78ACE.quest_desc: ["A Heat Generator converts heat energy into power. This is often the first generator to craft because, although it provides only a small amount of power, it is the only mekanism generator that does not require steel. The Heat Generator can generate power in both an active and a passive mode simultaneously. Since the Heat Generator outputs so little power and it is fairly inexpensive to create, it is common to have two or three generators constantly trickling power into one or more Energy Cubes. Regardless of its price, the player should look to upgrade as soon as possible, as its energy yield is far from enough to power even a few simple machines. "]
 	quest.410ABAB7FFE78ACE.quest_subtitle: "Power of Heat"
 	quest.410ABAB7FFE78ACE.title: "Your first power"
@@ -234,8 +269,8 @@
 	quest.60487292B87CB1DC.quest_subtitle: "Steel time"
 	quest.60487292B87CB1DC.title: "Creating your first Steel and casing"
 	quest.61A50C3DF144CB71.quest_desc: [""]
-	quest.61A50C3DF144CB71.quest_subtitle: "Changes to Celestigem"
-	quest.6248EA7F64D56D20.quest_subtitle: "Changes to Eclipse"
+	quest.61A50C3DF144CB71.quest_subtitle: "Tier 3: Changes to Celestigem"
+	quest.6248EA7F64D56D20.quest_subtitle: "Tier 4: Changes to Eclipse"
 	quest.65D93C26112DF787.title: "Mining Dim (Nether)"
 	quest.66E1B880F79905F6.quest_desc: ["Cells can be made with a storage component and a housing or with the housing recipe around a storage component:"]
 	quest.66E1B880F79905F6.quest_subtitle: "Must have for your Disk Drive"
@@ -246,6 +281,8 @@
 	]
 	quest.6759C67F6465A39C.quest_subtitle: "Slay the dragon"
 	quest.6759C67F6465A39C.title: "The End?"
+	quest.69E4E7D8880921B5.quest_subtitle: "Do I hear boss music?"
+	quest.69E4E7D8880921B5.title: "10m blocks walked"
 	quest.6A9848B999560236.quest_desc: ["Use shift right click and put the villagers in a &lTrader&r block for handy trading"]
 	quest.6A9848B999560236.quest_subtitle: "Use this for a trading hall"
 	quest.6A9848B999560236.title: "Easy Villager's"
@@ -267,6 +304,8 @@
 	quest.704950B47C17274A.quest_subtitle: "Visit an Origin Valley"
 	quest.70B2397E6F08C803.quest_desc: [""]
 	quest.70B2397E6F08C803.quest_subtitle: "Hello World"
+	quest.711F83CB3D22B4DA.quest_subtitle: "You're crazy to walk this far"
+	quest.711F83CB3D22B4DA.title: "5m blocks walked"
 	quest.713AB10F2A0160A6.quest_desc: [
 		"The Osmium Compressor is used to create Refined Obsidian Ingots from Refined Obsidian Dust and Glowstone Ingots from Glowstone Dust."
 		"It fuses liquid Osmium (melted down Osmium Ingots placed in the machine's bottom slot) with the originating materials to create their corresponding ingots. "
@@ -285,10 +324,12 @@
 	quest.767D035441CC197D.quest_subtitle: "Make a Iron Pickaxe"
 	quest.767D035441CC197D.title: "Is that a Iron Pickaxe?!"
 	quest.768B763B38DFEBAF.quest_subtitle: "Tier 2"
+	quest.76B8328E06898330.quest_subtitle: "Walk even more"
+	quest.76B8328E06898330.title: "2.5m blocks walked"
 	quest.7752FB24B45686BB.quest_desc: [""]
 	quest.7752FB24B45686BB.quest_subtitle: "Tier 1"
 	quest.78CCB86E64B15329.quest_desc: [""]
-	quest.78CCB86E64B15329.quest_subtitle: "Changes to Ferricore"
+	quest.78CCB86E64B15329.quest_subtitle: "Tier 1: Changes to Ferricore"
 	quest.7BC82DCF9B60043D.quest_desc: ["The most well know realm of vanilla Minecraft"]
 	quest.7BC82DCF9B60043D.quest_subtitle: "Piglin's where?!"
 	quest.7BC82DCF9B60043D.title: "Nether"
@@ -307,6 +348,7 @@
 	reward_table.75ACE7CD564553E9.title: "Basics"
 	task.0058143573FDE067.title: "Quest info"
 	task.03DD50872A030D8B.title: "I know"
+	task.062718E9885FF3B6.title: "Any #c:tools/wrench"
 	task.06CF3E1002665EB0.title: "Seven Seas: Corsair Corvette"
 	task.0D2051B7845BC752.title: "Mushroom House"
 	task.0D4EB9F9FF29EB84.title: "Shiraz Palace"

@@ -1,4 +1,7 @@
 {
+	icon: {
+		id: "mekanism:metallurgic_infuser"
+	}
 	id: "703058E430EBD4F7"
 	loot_size: 1
 	order_index: 1

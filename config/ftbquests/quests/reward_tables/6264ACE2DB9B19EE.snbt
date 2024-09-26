@@ -1,4 +1,7 @@
 {
+	icon: {
+		id: "justdirethings:gooblock_tier1"
+	}
 	id: "6264ACE2DB9B19EE"
 	loot_size: 1
 	order_index: 2

@@ -5,7 +5,7 @@
 	filename: "mobs_killed"
 	group: "72E0928224C8B474"
 	id: "63775E26BC5D7587"
-	order_index: 2
+	order_index: 1
 	progression_mode: "linear"
 	quest_links: [ ]
 	quests: [
@@ -173,6 +173,9 @@
 			y: -5.5d
 		}
 		{
+			icon: {
+				id: "minecraft:wither_skeleton_skull"
+			}
 			id: "2ACBDDCED34566D9"
 			rewards: [
 				{
@@ -227,6 +230,9 @@
 			y: -2.5d
 		}
 		{
+			icon: {
+				id: "biomesoplenty:origin_grass_block"
+			}
 			id: "704950B47C17274A"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -394,6 +400,7 @@
 			y: -5.5d
 		}
 		{
+			dependencies: ["261ED16104AEBB9E"]
 			icon: {
 				id: "minecraft:leather_boots"
 			}
@@ -404,28 +411,161 @@
 				table_id: 8479407067533497321L
 				type: "random"
 			}]
+			shape: "diamond"
 			tasks: [{
 				id: "55407E556B4317FF"
 				stat: "minecraft:walk_one_cm"
 				type: "stat"
 				value: 1000000
 			}]
-			x: 5.0d
-			y: 0.5d
+			x: -3.0d
+			y: -7.0d
 		}
 		{
 			id: "73E7DCD3CD74FD41"
-			rewards: [{
-				id: "33F20468AE8BB174"
-				type: "xp_levels"
-				xp_levels: 5
-			}]
+			rewards: [
+				{
+					id: "33F20468AE8BB174"
+					type: "xp_levels"
+					xp_levels: 5
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7AF34F9E5CFCFD05"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+			]
 			tasks: [{
 				id: "4FE0C4AD2C2E185F"
 				item: { components: { "relics:charge": 10, "relics:data": { abilities: { abilities: { autophagy: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { feed: { initialValue: 1.31539d } } }, infusion: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 2.2475d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:infinity_ham" }
 				type: "item"
 			}]
+			x: 5.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["10C9316CF276E46D"]
+			id: "76B8328E06898330"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "27158110E532179D"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7AFB9FB7632DC54F"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+			]
+			shape: "pentagon"
+			tasks: [{
+				icon: {
+					id: "minecraft:iron_boots"
+				}
+				id: "547D2EF23AB2F84B"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 2500000
+			}]
+			x: -1.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["76B8328E06898330"]
+			id: "711F83CB3D22B4DA"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "09450AE4357A6BEE"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "578D64A762FF657B"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "62CE10671E2B87E7"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				icon: {
+					id: "minecraft:golden_boots"
+				}
+				id: "783C23679FE0AE61"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 5000000
+			}]
+			x: 1.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["711F83CB3D22B4DA"]
+			icon: {
+				id: "minecraft:diamond_boots"
+			}
+			id: "69E4E7D8880921B5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "79C6205FD380EE4D"
+				table_id: 8479407067533497321L
+				type: "choice"
+			}]
+			shape: "octagon"
+			tasks: [{
+				id: "74B2CF55CD3AF434"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 10000000
+			}]
 			x: 3.0d
+			y: -7.0d
+		}
+		{
+			dependencies: ["69E4E7D8880921B5"]
+			icon: {
+				id: "minecraft:netherite_boots"
+			}
+			id: "0B985020DAA87CC3"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "00B4E7A0C623F074"
+					table_id: 8479407067533497321L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "358FC6A1CC233545"
+					table_id: 8479407067533497321L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "2342FD9DFBDD2665"
+					table_id: 8479407067533497321L
+					type: "choice"
+				}
+			]
+			shape: "circle"
+			tasks: [{
+				id: "5AF88FFE86490682"
+				stat: "minecraft:walk_one_cm"
+				type: "stat"
+				value: 20000000
+			}]
+			x: 5.0d
 			y: -7.0d
 		}
 	]
