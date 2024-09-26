@@ -83,10 +83,10 @@
 					type: "item"
 				}
 				{
-					id: "30CE302C91EFFA7F"
+					id: "28A955E860EDDA75"
 					item: {
 						count: 1
-						id: "minecraft:stone_sword"
+						id: "steeftweaks:beginners_sword"
 					}
 					type: "item"
 				}
@@ -172,6 +172,20 @@
 		{
 			dependencies: ["02451A11D372E7E2"]
 			id: "5AE1E90567FC9690"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4501DD0A8132F34B"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "64C3F560358DA1A3"
+					table_id: 8084059068226589943L
+					type: "random"
+				}
+			]
 			shape: "diamond"
 			tasks: [{
 				id: "1E0878D8A0FEF607"
@@ -218,7 +232,7 @@
 				id: "72EA0952CD52D2E7"
 				type: "dimension"
 			}]
-			x: 1.0d
+			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -284,6 +298,20 @@
 		{
 			dependencies: ["65D93C26112DF787"]
 			id: "407B0CB9897645E7"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "4302629ED4665266"
+					table_id: 8479407067533497321L
+					type: "choice"
+				}
+				{
+					exclude_from_claim_all: true
+					id: "05C9B95E16E0B355"
+					table_id: 8084059068226589943L
+					type: "random"
+				}
+			]
 			tasks: [{
 				dimension: "jamd:end"
 				icon: {
@@ -294,6 +322,117 @@
 			}]
 			x: 0.0d
 			y: 3.0d
+		}
+		{
+			dependencies: ["70B2397E6F08C803"]
+			icon: {
+				id: "undergarden:depthrock"
+			}
+			id: "71BBE8110D5EFCE8"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "58206940899C9C07"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [
+				{
+					dimension: "undergarden:undergarden"
+					id: "5F934C6EF9C6FEF0"
+					type: "dimension"
+				}
+				{
+					id: "6D3ED654163D4046"
+					item: { count: 1, id: "undergarden:catalyst" }
+					type: "item"
+				}
+			]
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["02451A11D372E7E2"]
+			id: "767D035441CC197D"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "1C0ED8CDFD495B78"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				id: "30116759B3B54EC5"
+				item: { count: 1, id: "minecraft:iron_pickaxe" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["767D035441CC197D"]
+			id: "2D121172FF49C36C"
+			rewards: [{
+				id: "5A452ED4F3C10CA3"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "43A1EA69DF01D55B"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2D121172FF49C36C"]
+			id: "337EAB2BEA0A93E3"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "302722F43D8AA643"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				id: "084E3576BBE80F3B"
+				item: { count: 1, id: "minecraft:diamond_pickaxe" }
+				type: "item"
+			}]
+			x: 14.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["337EAB2BEA0A93E3"]
+			id: "56172C8610559FC5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "02905C138D955F17"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				id: "67738CF51521EBC1"
+				item: { count: 1, id: "minecraft:netherite_pickaxe" }
+				type: "item"
+			}]
+			x: 16.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["2D121172FF49C36C"]
+			id: "6A9848B999560236"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "0042581194402C8E"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "48F7B0077264142B"
+				item: { components: { "easy_villagers:villager": { } }, count: 1, id: "easy_villagers:villager" }
+				type: "item"
+			}]
+			x: 12.0d
+			y: -3.0d
 		}
 	]
 }

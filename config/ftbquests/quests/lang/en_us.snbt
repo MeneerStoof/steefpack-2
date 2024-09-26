@@ -2,21 +2,66 @@
 	chapter.09EBFA36B12CE191.title: "Mekanism"
 	chapter.13091ECFCEC315B7.title: "Introduction"
 	chapter.33129172F8F62C22.title: "When Dungeons Arise"
+	chapter.4B4C8D4018390F62.title: "Mekanism"
 	chapter.63775E26BC5D7587.title: "SteefPack: Basics"
 	chapter.6AADF526B785AD13.title: "Extreme Reactors"
 	chapter_group.1EF4E84771D58ACD.title: "Basics"
 	chapter_group.72E0928224C8B474.title: "Extra's"
+	quest.01C2780095D3E29C.quest_desc: [
+		"This is a side option but you can make this with some of Mekanism items"
+		""
+		"&lPlease that some recipes are changes to make the game harder and balanced&r"
+	]
+	quest.01C2780095D3E29C.quest_subtitle: "Special Tools"
 	quest.02451A11D372E7E2.quest_desc: ["Just like vanilla"]
 	quest.02451A11D372E7E2.quest_subtitle: "Make a furnace"
 	quest.02451A11D372E7E2.title: "Smelting time"
+	quest.03136C8A20D51056.quest_desc: ["for each dungeon you get +/- 14 exp levels"]
+	quest.03136C8A20D51056.quest_subtitle: "The Main Dungeons"
+	quest.03693B5C995F4FD4.quest_desc: [
+		"This machine uses energy to extract dusts out of certain blocks and ores, making it essential to producing different kinds of tools. Not to be mistaken with the Crusher, this machine is the pulverizer equivalent in other mods."
+		""
+		"Can also be used to turn Coal or Charcoal into Compressed Carbon, Redstone into Compressed Redstone, Diamond into Compressed Diamond and Refined Obsidian Dust into Compressed Obsidian, all for use in the Metallurgic Infuser."
+		"Note: Compressed Carbon is worth 100 carbon; Coal is worth 10 and Charcoal is worth 20; hence it is better to refine coal and use Compressed Carbon. "
+	]
+	quest.03693B5C995F4FD4.quest_subtitle: "For enrichting items"
+	quest.056AB66CD3611445.quest_desc: ["for each dungeon you get +/- 14 exp levels"]
+	quest.056AB66CD3611445.quest_subtitle: "The Seven Seas Addon"
 	quest.0A9C50167510ED68.quest_subtitle: "Create the Metallurgic Infurser"
 	quest.0A9C50167510ED68.title: "Create your Metallurgic Infuser"
 	quest.0AB3E518A21B2675.title: "Get your first casing!"
+	quest.0AF7D7729E8E8123.quest_desc: [
+		"The Crusher crushes, among other things, clumps into Dirty Dusts, Ingots into dusts and Biomatter into Bio Fuel."
+		""
+		"By defualt, it consumes 50 J/t and processes one item every 10 seconds. "
+	]
+	quest.0AF7D7729E8E8123.quest_subtitle: "Crushing items"
+	quest.10C700D4EE0C5D4B.quest_desc: [
+		"Factories are advanced forms of the basic machines aimed to assist in large scale resource processing. They come in three tiers: Basic, Advanced, and Elite."
+		""
+		"There are factory versions for the:"
+		""
+		"    Energized Smelter"
+		"    Enrichment Chamber"
+		"    Crusher"
+		"    Osmium Compressor"
+		"    Combiner"
+		"    Purification Chamber"
+		"    Chemical Injection Chamber"
+		"    Metallurgic Infuser"
+	]
+	quest.10C700D4EE0C5D4B.quest_subtitle: "Upgrade on the machines"
 	quest.10C9316CF276E46D.quest_subtitle: "Walk a lot of blocks"
 	quest.10C9316CF276E46D.title: "1,000,000 blocks"
 	quest.189DB307F0AB4FDC.quest_desc: ["This is a must have because this is Minecraft not Craft"]
 	quest.189DB307F0AB4FDC.quest_subtitle: "or Crafting Table if you prefer that"
 	quest.189DB307F0AB4FDC.title: "Make a workbench"
+	quest.1D7D9AE958EDFC24.quest_desc: [
+		"The Atomic Disassembler is Mekanism's an all-in-one tool, essentially the ultimate, electronic version of the paxel. "
+		""
+		"SteefPack 2 has a other recipe to this item"
+	]
+	quest.1D7D9AE958EDFC24.quest_subtitle: "Ultimate Paxel"
 	quest.261ED16104AEBB9E.quest_desc: [
 		"Welcome to SteefPack 2"
 		"This is the &2second&r pack of the "
@@ -32,37 +77,108 @@
 		"- &lNielsjuh01&r (Pack Dev)"
 		"- &lAthanorite&r (Pack Dev)"
 		"- &lMeikiesGames&r (Tester)"
+		""
+		"&lPlease note:"
+		"Some mods quest information are from their wiki.&r"
 	]
 	quest.261ED16104AEBB9E.quest_subtitle: "Welcome to SteefPack 2"
 	quest.261ED16104AEBB9E.title: "Welcome"
+	quest.2890AA2518B7BF4C.quest_desc: ["Mekanism Alloys are key components in crafting Mekanism machines/tools. They are present in many recipes, and different recipes may require different tiers of Alloys. For example, an Energy Tablet would require Infused Alloys, but a Robit would require Atomic Alloys. "]
+	quest.2890AA2518B7BF4C.quest_subtitle: "All the alloys"
 	quest.28BE6E22393D3079.title: "No wind turbine but sun!"
 	quest.2A9D3246C71F7B66.quest_subtitle: "Mine an Osmium Ore"
 	quest.2A9D3246C71F7B66.title: "The Beginning of Mekanism"
 	quest.2ACBDDCED34566D9.quest_subtitle: "Kill The Wither"
 	quest.2ACBDDCED34566D9.title: "Withered Away"
+	quest.2D121172FF49C36C.quest_desc: ["If you want to explore or do a specific mod use the other questlines from this modpack"]
+	quest.2D121172FF49C36C.quest_subtitle: "Look at other questlines"
+	quest.2E1344847A885C62.quest_desc: ["This is all the non reactor based power options"]
+	quest.2E1344847A885C62.quest_subtitle: "All The Power options"
 	quest.2F2E698D224452D0.title: "Get your basic Mettalurgic Infuser"
+	quest.30A548A78FB6DE09.quest_desc: [
+		"The Digital Miner is the scale mining machine of Mekanism. However, this machine is like no other as it \"magically-teleports\" mined blocks to its inventory."
+		""
+		"The player can set the mining radius and the depth for its scanning area. The player can also opt to replace all mined blocks should the player wish to do so by keeping it fed with the desired material. The Digital Miner can be configured to mine ores only within a certain area. The Digital Miner can also be set to silk touch ores, but this results in higher power consumption. Like all other Mekanism machines, the Digital Miner can automatically remove ores from its inventory for automated processing by other machines. It also takes the same upgrades as other Mekanism machines. It is also known that placing a Digital Miner in a claim (claims on servers) will stop it from working. "
+	]
+	quest.30A548A78FB6DE09.quest_subtitle: "No more hard work"
 	quest.32D46C9F03037D1A.quest_desc: [""]
 	quest.32D46C9F03037D1A.quest_subtitle: "Activate 10 Waystones"
 	quest.32F6626F905D2D65.quest_subtitle: "Finally electric"
 	quest.32F6626F905D2D65.title: "Get your first machine"
+	quest.337EAB2BEA0A93E3.quest_desc: ["Diamond Pickaxe can't mine all things but almost everything with ores or stone based blocks are minable with this tool"]
+	quest.337EAB2BEA0A93E3.quest_subtitle: "The almost ultimate tool"
+	quest.3AF7801F6E6C940D.quest_desc: [
+		"The Purification Chamber uses oxygen to refine Ores and shards into clumps. Each ore makes 3 clumps, whereas each shard only gives one clump."
+		""
+		"The oxygen can be provided externally as gas, internally with an oxygen filled Gas Tank or flint. (See the gas page for how to make oxygen)"
+		""
+		"For example: you could transform Copper Ore into 3 Copper Clump."
+		"Clumps can then be placed in a Crusher, producing dirty ores, which can be enriched in an Enrichment Chamber to create regular dusts."
+		""
+		"Additionally you can turn gravel into flint. "
+	]
+	quest.3AF7801F6E6C940D.quest_subtitle: "Purified Ores"
 	quest.3BDF52A0E1FE2020.title: "Get your enrichment chamber"
 	quest.3DD3FA8185BAF44B.quest_desc: ["Always begin with this just like in vanilla"]
 	quest.3DD3FA8185BAF44B.quest_subtitle: "Punch a tree"
 	quest.3DD3FA8185BAF44B.title: "Get started"
+	quest.3F14F8AA586FB9C1.quest_desc: ["The energized smelter is your basic electric furnace that uses energy instead of fuel to smelt items. "]
+	quest.3F14F8AA586FB9C1.quest_subtitle: "Alternative furnace"
+	quest.410ABAB7FFE78ACE.quest_desc: ["A Heat Generator converts heat energy into power. This is often the first generator to craft because, although it provides only a small amount of power, it is the only mekanism generator that does not require steel. The Heat Generator can generate power in both an active and a passive mode simultaneously. Since the Heat Generator outputs so little power and it is fairly inexpensive to create, it is common to have two or three generators constantly trickling power into one or more Energy Cubes. Regardless of its price, the player should look to upgrade as soon as possible, as its energy yield is far from enough to power even a few simple machines. "]
+	quest.410ABAB7FFE78ACE.quest_subtitle: "Power of Heat"
+	quest.410ABAB7FFE78ACE.title: "Your first power"
 	quest.421FE95F5C123383.title: "Time to get power!"
+	quest.43F9F2F2E04182CE.quest_desc: [
+		"The Solar Generator harnesses sunlight to create power. The generator is particularly useful for generating passive energy for above-ground machines instead of draining your main stores."
+		""
+		"While active, it will output 1200 J/sec (60 J/t) through the bottom of the panel base. It has a small 96 kJ internal power buffer. This Solar Generator's low output limits its usefulness, but that isn't the case with its larger cousin, the Advanced Solar Generator. "
+	]
+	quest.43F9F2F2E04182CE.quest_subtitle: "Power of the sun"
 	quest.49D6B419D6B907D5.title: "Mining Dim (Overworld)"
+	quest.4B0A8CD17F3A5326.quest_desc: [
+		"The Osmium Ingot is acquired by smelting Osmium Ore or Osmium Dust. It is heavily used in crafting your first machines. "
+		""
+		"The Metallurgic Infuser is the first step in the Mekanism tech tree. The Metallurgic Infuser is a machine used in the production of Steel Ingots, Bronze Ingot, Enriched Alloy, and Obsidian Ingots. "
+	]
+	quest.4B0A8CD17F3A5326.quest_subtitle: "The basics"
+	quest.4B0A8CD17F3A5326.title: "Getting Started"
+	quest.4B7EE77A33C9095E.quest_subtitle: "Tier 3"
 	quest.4F531AAD58F55DF0.quest_subtitle: "Smelt a Uranium Ingot"
 	quest.4F531AAD58F55DF0.title: "The Most Important Item!"
 	quest.5369A28C3CF43C36.quest_subtitle: "Your first Uranium and Fluorite"
 	quest.5369A28C3CF43C36.title: "Get your Ores"
 	quest.53F0D0495A1734FD.quest_desc: ["Always handy for on the road and your adventure"]
 	quest.53F0D0495A1734FD.quest_subtitle: "Or make that"
+	quest.56172C8610559FC5.quest_desc: ["This is the best pickaxe from vanilla Minecraft it mines all ores and stone based stuff. Best tip is get a mending book"]
+	quest.56172C8610559FC5.quest_subtitle: "The ultimate vanilla tool"
 	quest.5AE1E90567FC9690.quest_desc: ["This is a upgrade to the furnace if you want to smelt things faster or run it on electricy this is your thing"]
 	quest.5AE1E90567FC9690.quest_subtitle: "Iron is better than stone"
 	quest.5AE1E90567FC9690.title: "Making your Furnace better"
-	quest.5B054DFBD6E015F3.quest_desc: ["Go to the twilight forest and explore there to your heart content"]
+	quest.5B054DFBD6E015F3.quest_desc: ["The Twilight Forest realm is an endless world like any other Minecraft dimension, except this dimension is densely forested. It has more of an enchanted, fairy tale, and mythological theme and feel than the Overworld. The skies are perpetually dim and always twilight, giving a darker, somewhat gloomy cast to the world below. An over-story of larger Trees further shades most of the world below, creating a canopy covering most of the world (so thick that you can actually walk on it most places). The canopy is pierced only occasionally by massive trees that rise to the ceiling of the world. The terrain is flatter, or at least less mountainous than regular Minecraft, but you will occasionally encounter Hills, sometimes rising far above the canopy level. These hills are hollow too, containing Caves filled with valuable ores, treasure and dangerous monsters. You may also run across many different dungeons, bosses, structures, trees, and a numerous amount of unique items throughout your travels through the Twilight Forest realm. There is much to explore."]
 	quest.5B054DFBD6E015F3.quest_subtitle: "Dawn or Dusk?"
 	quest.5B054DFBD6E015F3.title: "Twilight Forest"
+	quest.5D99B0721908DDF1.quest_desc: [
+		"A Wind Turbine's giant blades harness the force of the wind to generate power. Each Wind Turbine requires a small 1x5x1 area (horizontally one block). The machine will generate the same power day and night, in sun or rain, but the turbine must have a clear view of the sky (over the rotor housing at the top of the tower)."
+		""
+		"The power output increases linearly with its elevation, to a maximum output of 480 J/t (9.6kJ/s). Connect Universal Cable or other compatible cables to the \"front\" of the base of the Turbine, the side underneath the blades (indicated by a green square). Right-click with a Configurator to rotate the entire machine."
+		""
+		"By default, the minimum elevation is 24 and the maximum elevation is the maximum height of the dimension."
+	]
+	quest.5D99B0721908DDF1.quest_subtitle: "Power of Wind"
+	quest.5EDB9DD3890A948E.quest_desc: [
+		"The Advanced Solar Generator is a highly upgraded version of the basic Solar Generator. Construction of an Advanced Solar Generator requires four Solar Generators, but it produces six times the power of its smaller counterpart. It also requires an area of 3x3x3 Blocks in order to be placed. Universal Cable or other compatible wire can be connected to the side of the base with a green square or the bottom of the Generator. Right-click the generator with a wrench or Configurator set to Rotate to rotate the entire assembly."
+		""
+		"The Advanced Solar Generator only produces full power during a clear day. It produces no power during night time, and only 20% of what it would otherwise during a rain. "
+	]
+	quest.5EDB9DD3890A948E.quest_subtitle: "More power of the sun"
+	quest.60487292B87CB1DC.quest_desc: [
+		"Use the Metallurgic Infuser to create Steel Ingots."
+		"Insert a few Coal/Charcoal into the Secondary Material Slot (the purple slot on the far left). This will fill up the Secondary Material Slot with Carbon."
+		""
+		"Steel Casing is a block used in the crafting recipe of most Mekanism machines. In older versions, Steel Blocks were used instead. "
+	]
+	quest.60487292B87CB1DC.quest_subtitle: "Steel time"
+	quest.60487292B87CB1DC.title: "Creating your first Steel and casing"
 	quest.65D93C26112DF787.title: "Mining Dim (Nether)"
 	quest.6759C67F6465A39C.quest_desc: [
 		"The realm where the dragon lives."
@@ -70,6 +186,9 @@
 	]
 	quest.6759C67F6465A39C.quest_subtitle: "Slay the dragon"
 	quest.6759C67F6465A39C.title: "The End?"
+	quest.6A9848B999560236.quest_desc: ["Use shift right click and put the villagers in a &lTrader&r block for handy trading"]
+	quest.6A9848B999560236.quest_subtitle: "Use this for a trading hall"
+	quest.6A9848B999560236.title: "Easy Villager's"
 	quest.6ACA3C8247863896.quest_subtitle: "Almost all the basic's"
 	quest.6CCB22888DB72C38.quest_desc: [
 		"&n&lHome commands&r&r"
@@ -88,21 +207,100 @@
 	quest.704950B47C17274A.quest_subtitle: "Visit an Origin Valley"
 	quest.70B2397E6F08C803.quest_desc: [""]
 	quest.70B2397E6F08C803.quest_subtitle: "Hello World"
+	quest.713AB10F2A0160A6.quest_desc: [
+		"The Osmium Compressor is used to create Refined Obsidian Ingots from Refined Obsidian Dust and Glowstone Ingots from Glowstone Dust."
+		"It fuses liquid Osmium (melted down Osmium Ingots placed in the machine's bottom slot) with the originating materials to create their corresponding ingots. "
+	]
+	quest.713AB10F2A0160A6.quest_subtitle: "Something Refined"
+	quest.71BBE8110D5EFCE8.quest_desc: [
+		"The Undergarden is a dark, subterranean world located deep below the bedrock of the Overworld. The flora here have adapted to their conditions and can grow anywhere, independent of light. Strange creatures call these dark lands home, and are plagued by the invasive Rotspawn, monsters originating from a chaotic, mysterious realm."
+		""
+		"The Catalyst is an item used to activate the Undergarden portal. "
+	]
+	quest.71BBE8110D5EFCE8.quest_subtitle: "Spooky"
 	quest.73A5887D57633E1E.title: "Time to get more sun!"
+	quest.73E7DCD3CD74FD41.quest_desc: ["Great for your hunger bar always carry this with you"]
+	quest.73E7DCD3CD74FD41.quest_subtitle: "Unlimited Food"
+	quest.767D035441CC197D.quest_desc: ["This is the best upgrade for early game you can mine Diamond ore with this"]
+	quest.767D035441CC197D.quest_subtitle: "Make a Iron Pickaxe"
+	quest.767D035441CC197D.title: "Is that a Iron Pickaxe?!"
+	quest.768B763B38DFEBAF.quest_subtitle: "Tier 2"
+	quest.7752FB24B45686BB.quest_desc: [""]
+	quest.7752FB24B45686BB.quest_subtitle: "Tier 1"
+	quest.7BC82DCF9B60043D.quest_desc: ["The most well know realm of vanilla Minecraft"]
 	quest.7BC82DCF9B60043D.quest_subtitle: "Piglin's where?!"
 	quest.7BC82DCF9B60043D.title: "Nether"
 	quest.7D088ECB4EB12717.quest_subtitle: "Just a basic smelter"
 	quest.7D088ECB4EB12717.title: "Go to the basic's"
+	quest.7FA5F5B4BEB9351B.quest_desc: [
+		"This quest is made with some help "
+		"from the Mekanism wiki"
+		"- &lSteef_an&r"
+	]
+	quest.7FA5F5B4BEB9351B.quest_subtitle: "Read me!"
+	quest.7FA5F5B4BEB9351B.title: "Mekanism Quest info"
+	reward_table.703058E430EBD4F7.title: "Mekanism"
 	reward_table.75ACE7CD564553E9.title: "Basics"
+	task.0058143573FDE067.title: "Quest info"
+	task.06CF3E1002665EB0.title: "Seven Seas: Corsair Corvette"
+	task.0D2051B7845BC752.title: "Mushroom House"
+	task.0D4EB9F9FF29EB84.title: "Shiraz Palace"
 	task.0E7CDC5E3AC7FF59.title: "Welcome to your world"
+	task.108DC8D21C0512EA.title: "Small Blimp"
+	task.10E38CDE899C1138.title: "Mechanical Nest"
+	task.12565E4781249881.title: "Typhon"
+	task.126CDCB8B4774F16.title: "Seven Seas: Pirate Junk"
+	task.14BDFD2441DB5772.title: "Mushroom Village"
+	task.15D387F7DD006E35.title: "Illager Fort"
+	task.16050360D699326D.title: "Any #c:ingots/steel"
+	task.181593C985A4E317.title: "Any #c:raw_materials/osmium"
+	task.1BBE263DAD143D98.title: "Greenwood Pub"
+	task.1C334F658A89C0B7.title: "Seven Seas: Unicorn Galleon"
+	task.1CBDE30F195CB2B8.title: "When Dungeons Arise Seven Seas"
+	task.1D9E5CC610012E2A.title: "Ceryneian Hind"
 	task.1EE73B74FB5368CF.title: "Any #minecraft:logs"
+	task.2011CB4786418B3D.title: "Lighthouse"
 	task.24C107BA769D6CB8.title: "Abandoned Temple"
+	task.25665BADF3343BBF.title: "Coliseum"
+	task.262001DA801B9AB6.title: "Illager Corsair"
+	task.270A79CF8291245F.title: "Keep Kayra"
 	task.2778BCB7F46A3EB6.title: "Mining Dim (The End)"
 	task.28A1AFCE5802AFCD.title: "Teleporter"
+	task.29707FC185FC37CF.title: "Bathhouse"
+	task.2C781F1247C786B3.title: "Bandit Village"
+	task.2C925C2E4B22F0AC.title: "The factory upgrades"
+	task.2ED954C6A9966BAC.title: "Wishing Well"
+	task.2FECB242C6683F3B.title: "Illager Galley"
+	task.315AA49C03A31950.title: "Heavenly Conqueror"
+	task.352F62BD6EB2EDB5.title: "Thornborn Towers"
+	task.3741268DE471C673.title: "Mining System"
+	task.3780D9DDEA64D28A.title: "Seven Seas: Small Yacht"
 	task.385A10F0A1ACD776.title: "Minimap"
+	task.3CE3CB1965EBBC0B.title: "Monastery"
+	task.3D46EE671CB48FE0.title: "Infested Temple"
+	task.406A41B831272C21.title: "Heavenly Challenger"
+	task.43A1EA69DF01D55B.title: "Reminder"
 	task.447A1FF930244E11.title: "The Center of the World"
 	task.44F97990F3C22AC6.title: "Aviary"
+	task.4662C7B30350C14A.title: "Scorched Mines"
 	task.4800D5D80D3CEEAD.title: "The Classic Times"
+	task.4B420BDCED030321.title: "Handy tools"
 	task.4B9AAD748EE8E11A.title: "Usefull Commands"
+	task.4EEB98127FFEA3D5.title: "Power Options"
+	task.4F9197F6AF1B6B2B.title: "Foundry"
+	task.4F9B545516743758.title: "Small Prairie House"
+	task.5275CDE16ED17C87.title: "Alloys"
+	task.57BFCB6F847C4EE2.title: "When Dungeons Arise"
+	task.59267D21E85D6000.title: "Plague Asylum"
+	task.5BD6076BB64EEB38.title: "Illager Campsite"
 	task.5EFEBFEA03D95B48.title: "Bandit Towers"
+	task.5F934C6EF9C6FEF0.title: "The Undergranden"
+	task.5FE3C92E04393623.title: "Illager Windmill"
+	task.604688A080D51E5E.title: "Undead Pirate Ship"
+	task.70F0F332954CA260.title: "Jungle Tree House"
+	task.72683608C06DACE2.title: "Fishing Hut"
+	task.7323EEE6A3F7C81F.title: "Merchant Campsite"
+	task.75D10BDE7E80CED4.title: "Mushroom Mines"
+	task.76BFE21FFB872665.title: "Seven Seas: Victory Frigate"
+	task.7EE55BE0D554241C.title: "Giant Mushroom"
 }

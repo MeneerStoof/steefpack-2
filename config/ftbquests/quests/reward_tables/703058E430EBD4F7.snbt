@@ -1,0 +1,46 @@
+{
+	id: "703058E430EBD4F7"
+	loot_size: 1
+	order_index: 1
+	rewards: [
+		{
+			count: 4
+			item: {
+				count: 1
+				id: "mekanism:alloy_infused"
+			}
+			weight: 50.0f
+		}
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "mekanism:alloy_reinforced"
+			}
+			weight: 7.0f
+		}
+		{ item: { count: 1, id: "mekanism:alloy_atomic" }, weight: 3.0f }
+		{
+			count: 3
+			item: {
+				count: 1
+				id: "mekanism:ingot_steel"
+			}
+			weight: 60.0f
+		}
+		{ item: { count: 1, id: "mekanism:upgrade_speed" }, weight: 24.0f }
+		{ item: { count: 1, id: "mekanism:upgrade_filter" }, weight: 24.0f }
+		{ item: { count: 1, id: "mekanism:upgrade_energy" }, weight: 16.0f }
+		{ item: { count: 1, id: "mekanism:upgrade_muffling" }, weight: 23.0f }
+		{ item: { count: 1, id: "mekanism:upgrade_chemical" }, weight: 15.0f }
+		{ item: { count: 1, id: "mekanism:upgrade_anchor" }, weight: 15.0f }
+		{
+			count: 2
+			item: {
+				count: 1
+				id: "mekanism:energy_tablet"
+			}
+			weight: 41.0f
+		}
+	]
+}

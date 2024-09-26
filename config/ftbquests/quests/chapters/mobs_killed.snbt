@@ -176,18 +176,18 @@
 			id: "2ACBDDCED34566D9"
 			rewards: [
 				{
-					id: "1559C3292B7FDDD0"
-					item: {
-						count: 1
-						id: "minecraft:netherite_sword"
-					}
-					type: "item"
-				}
-				{
 					exclude_from_claim_all: true
 					id: "4C26A0C5B3C4BC4C"
 					table_id: 8479407067533497321L
 					type: "choice"
+				}
+				{
+					id: "614B784F629AB457"
+					item: {
+						count: 1
+						id: "minecraft:nether_star"
+					}
+					type: "item"
 				}
 			]
 			tasks: [{
@@ -412,6 +412,21 @@
 			}]
 			x: 5.0d
 			y: 0.5d
+		}
+		{
+			id: "73E7DCD3CD74FD41"
+			rewards: [{
+				id: "33F20468AE8BB174"
+				type: "xp_levels"
+				xp_levels: 5
+			}]
+			tasks: [{
+				id: "4FE0C4AD2C2E185F"
+				item: { components: { "relics:charge": 10, "relics:data": { abilities: { abilities: { autophagy: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { feed: { initialValue: 1.31539d } } }, infusion: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 2.2475d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:infinity_ham" }
+				type: "item"
+			}]
+			x: 3.0d
+			y: -7.0d
 		}
 	]
 }

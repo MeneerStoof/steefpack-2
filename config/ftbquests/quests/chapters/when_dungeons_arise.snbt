@@ -27,6 +27,11 @@
 		}
 		{
 			id: "58206C230C0F8084"
+			rewards: [{
+				id: "33EC92E7AA6D9B4F"
+				type: "xp"
+				xp: 300
+			}]
 			tasks: [{
 				id: "44F97990F3C22AC6"
 				structure: "dungeons_arise:aviary"
@@ -37,6 +42,11 @@
 		}
 		{
 			id: "296128782296E9D4"
+			rewards: [{
+				id: "6FF2CADC33DA4E00"
+				type: "xp"
+				xp: 300
+			}]
 			tasks: [{
 				id: "5EFEBFEA03D95B48"
 				structure: "dungeons_arise:bandit_towers"
@@ -44,6 +54,636 @@
 			}]
 			x: 4.0d
 			y: -1.0d
+		}
+		{
+			id: "54027F0904F9A492"
+			rewards: [{
+				id: "3D7A785089FE62AC"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "2C781F1247C786B3"
+				structure: "dungeons_arise:bandit_village"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: -1.0d
+		}
+		{
+			id: "63B3DF984CBFC1DF"
+			rewards: [{
+				id: "7B1D57F1604C30CB"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "29707FC185FC37CF"
+				structure: "dungeons_arise:bathhouse"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 0.5d
+		}
+		{
+			id: "5A58F8F221D60DC8"
+			rewards: [{
+				id: "405CD371DD9DBAA3"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "1D9E5CC610012E2A"
+				structure: "dungeons_arise:ceryneian_hind"
+				type: "structure"
+			}]
+			x: 2.5d
+			y: 0.5d
+		}
+		{
+			id: "65EC0A695B56FE26"
+			rewards: [{
+				id: "6D62082E2A01DB77"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "25665BADF3343BBF"
+				structure: "dungeons_arise:coliseum"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 0.5d
+		}
+		{
+			id: "0ABDDD4EC6DFEEE3"
+			rewards: [{
+				id: "119ABF9832DD7993"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "72683608C06DACE2"
+				structure: "dungeons_arise:fishing_hut"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			id: "38F932548D9058DE"
+			rewards: [{
+				id: "4CF82E486E46B32E"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "4F9197F6AF1B6B2B"
+				structure: "dungeons_arise:foundry"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			id: "2C0ADF62D3FE0C6E"
+			rewards: [{
+				id: "586D2D3DDD659148"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "7EE55BE0D554241C"
+				structure: "dungeons_arise:giant_mushroom"
+				type: "structure"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "2B9FB805467D1719"
+			rewards: [{
+				id: "4A3A098FC44254C4"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "1BBE263DAD143D98"
+				structure: "dungeons_arise:greenwood_pub"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "0AD56985342CB742"
+			rewards: [{
+				id: "1A15BE97ABE36B85"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "406A41B831272C21"
+				structure: "dungeons_arise:heavenly_challenger"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: 2.0d
+		}
+		{
+			id: "294443ACDD7B6561"
+			rewards: [{
+				id: "5F0D8D769761852E"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "315AA49C03A31950"
+				structure: "dungeons_arise:heavenly_conqueror"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 3.5d
+		}
+		{
+			id: "7C818B5272F60FA6"
+			rewards: [{
+				id: "58990DDA6F8944E1"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "5BD6076BB64EEB38"
+				structure: "dungeons_arise:illager_campsite"
+				type: "structure"
+			}]
+			x: 2.5d
+			y: 3.5d
+		}
+		{
+			id: "146DEA993B87940F"
+			rewards: [{
+				id: "180406F437D0F65D"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "262001DA801B9AB6"
+				structure: "dungeons_arise:illager_corsair"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 3.5d
+		}
+		{
+			id: "3DA3F2D5864B050B"
+			rewards: [{
+				id: "76CC09C6C1162C43"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "15D387F7DD006E35"
+				structure: "dungeons_arise:illager_fort"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			id: "4B6126561131AAA2"
+			rewards: [{
+				id: "276B47E0F73EE75F"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "2FECB242C6683F3B"
+				structure: "dungeons_arise:illager_galley"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 5.0d
+		}
+		{
+			id: "16B33B6126A57E05"
+			rewards: [{
+				id: "1A5C921825A59F75"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "5FE3C92E04393623"
+				structure: "dungeons_arise:illager_windmill"
+				type: "structure"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			id: "459F7974EC4F5F29"
+			rewards: [{
+				id: "23392A0540057255"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "3D46EE671CB48FE0"
+				structure: "dungeons_arise:infested_temple"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 5.0d
+		}
+		{
+			id: "7BEE46DC90EF6BC2"
+			rewards: [{
+				id: "3D5F0F1C38BEF7EF"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "70F0F332954CA260"
+				structure: "dungeons_arise:jungle_tree_house"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: 5.0d
+		}
+		{
+			id: "7E44DBC7266EA416"
+			rewards: [{
+				id: "1FB156E3CFDB0354"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "270A79CF8291245F"
+				structure: "dungeons_arise:keep_kayra"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 6.5d
+		}
+		{
+			id: "230784AAC94F22B2"
+			rewards: [{
+				id: "0F1638BE5BB2E123"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "2011CB4786418B3D"
+				structure: "dungeons_arise:lighthouse"
+				type: "structure"
+			}]
+			x: 2.5d
+			y: 6.5d
+		}
+		{
+			id: "15B90E1ABF65796E"
+			rewards: [{
+				id: "321DAB492F30C875"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "10E38CDE899C1138"
+				structure: "dungeons_arise:mechanical_nest"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 6.5d
+		}
+		{
+			id: "59518481F05DD6FE"
+			rewards: [{
+				id: "3F3EEB6D246CC9F7"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "7323EEE6A3F7C81F"
+				structure: "dungeons_arise:merchant_campsite"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: 6.5d
+		}
+		{
+			id: "18C7D06A7F1E2680"
+			rewards: [{
+				id: "5D97476B6A2EA6BE"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "3741268DE471C673"
+				structure: "dungeons_arise:mining_system"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 8.0d
+		}
+		{
+			id: "045EF1727868B866"
+			rewards: [{
+				id: "655690F4C44A4192"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "3CE3CB1965EBBC0B"
+				structure: "dungeons_arise:monastery"
+				type: "structure"
+			}]
+			x: 2.5d
+			y: 8.0d
+		}
+		{
+			id: "32C1011E8A63BD51"
+			rewards: [{
+				id: "33D994CE8922FEDE"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "0D2051B7845BC752"
+				structure: "dungeons_arise:mushroom_house"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			id: "2675F34430C3F8EF"
+			rewards: [{
+				id: "1939B9EB9AA71F16"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "75D10BDE7E80CED4"
+				structure: "dungeons_arise:mushroom_mines"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: 8.0d
+		}
+		{
+			id: "647BD76A9BFCACF2"
+			rewards: [{
+				id: "726F9D0B4DC56015"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "14BDFD2441DB5772"
+				structure: "dungeons_arise:mushroom_village"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 9.5d
+		}
+		{
+			id: "22D275976B2ADF96"
+			rewards: [{
+				id: "113386C106748309"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "59267D21E85D6000"
+				structure: "dungeons_arise:plague_asylum"
+				type: "structure"
+			}]
+			x: 2.5d
+			y: 9.5d
+		}
+		{
+			id: "6B20158B828A68A1"
+			rewards: [{
+				id: "180119049EDC3DF8"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "4662C7B30350C14A"
+				structure: "dungeons_arise:scorched_mines"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 9.5d
+		}
+		{
+			id: "55D9B0CC1A4F4765"
+			rewards: [{
+				id: "28B6B674BDFFDD2E"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "0D4EB9F9FF29EB84"
+				structure: "dungeons_arise:shiraz_palace"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: 9.5d
+		}
+		{
+			id: "5A6B8CAE58A72E32"
+			rewards: [{
+				id: "639B2FED4790CFA6"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "108DC8D21C0512EA"
+				structure: "dungeons_arise:small_blimp"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			id: "33B2EAA1563D026A"
+			rewards: [{
+				id: "688A409C416617C6"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "4F9B545516743758"
+				structure: "dungeons_arise:small_prairie_house"
+				type: "structure"
+			}]
+			x: 2.5d
+			y: 11.0d
+		}
+		{
+			id: "5D48AE48B4ABB339"
+			rewards: [{
+				id: "1ABBB6898026A872"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "352F62BD6EB2EDB5"
+				structure: "dungeons_arise:thornborn_towers"
+				type: "structure"
+			}]
+			x: 4.0d
+			y: 11.0d
+		}
+		{
+			id: "399D819A8E4D2A79"
+			rewards: [{
+				id: "1DD7D52A768B3918"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "12565E4781249881"
+				structure: "dungeons_arise:typhon"
+				type: "structure"
+			}]
+			x: 5.5d
+			y: 11.0d
+		}
+		{
+			id: "73AF37471C5C5D2A"
+			rewards: [{
+				id: "0DAE219380F5230C"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "604688A080D51E5E"
+				structure: "dungeons_arise:undead_pirate_ship"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 12.5d
+		}
+		{
+			id: "614466F4D838A4D6"
+			rewards: [{
+				id: "07BEE5D24483C010"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "2ED954C6A9966BAC"
+				structure: "dungeons_arise:wishing_well"
+				type: "structure"
+			}]
+			x: 2.5d
+			y: 12.5d
+		}
+		{
+			id: "72DF7DA16F0AEAC6"
+			rewards: [{
+				id: "56CDCB22736CD7FA"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "06CF3E1002665EB0"
+				structure: "dungeons_arise_seven_seas:corsair_corvette"
+				type: "structure"
+			}]
+			x: 8.0d
+			y: -1.0d
+		}
+		{
+			id: "75B37695736AB4D4"
+			rewards: [{
+				id: "581B54B862B2ED4D"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "126CDCB8B4774F16"
+				structure: "dungeons_arise_seven_seas:pirate_junk"
+				type: "structure"
+			}]
+			x: 9.5d
+			y: -1.0d
+		}
+		{
+			id: "7A25AB098B65321D"
+			rewards: [{
+				id: "67A074B66E562796"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "3780D9DDEA64D28A"
+				structure: "dungeons_arise_seven_seas:small_yacht"
+				type: "structure"
+			}]
+			x: 11.0d
+			y: -1.0d
+		}
+		{
+			id: "17C8C43563D23103"
+			rewards: [{
+				id: "2E9D95AC01F9172D"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "1C334F658A89C0B7"
+				structure: "dungeons_arise_seven_seas:unicorn_galleon"
+				type: "structure"
+			}]
+			x: 12.5d
+			y: -1.0d
+		}
+		{
+			id: "1A9A99D5196483B1"
+			rewards: [{
+				id: "3E36D4EBB5119AB7"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				id: "76BFE21FFB872665"
+				structure: "dungeons_arise_seven_seas:victory_frigate"
+				type: "structure"
+			}]
+			x: 8.0d
+			y: 0.5d
+		}
+		{
+			id: "03136C8A20D51056"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5CA21ED763E0505D"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				id: "57BFCB6F847C4EE2"
+				type: "checkmark"
+			}]
+			x: 5.5d
+			y: -3.0d
+		}
+		{
+			id: "056AB66CD3611445"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "04AC2BBA9C912A8B"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				id: "1CBDE30F195CB2B8"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: -3.0d
 		}
 	]
 }
