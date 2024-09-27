@@ -39,7 +39,7 @@
 			y: 1.0d
 		}
 		{
-			dependencies: ["2D121172FF49C36C"]
+			dependencies: ["261ED16104AEBB9E"]
 			id: "531C2896425A9960"
 			rewards: [{
 				exclude_from_claim_all: true

@@ -1,0 +1,105 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "building_tips"
+	group: "72E0928224C8B474"
+	icon: {
+		id: "minecraft:oak_wood"
+	}
+	id: "77BD1ABCF16E7724"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			id: "18D704844A81A594"
+			tasks: [{
+				id: "5451149F4C8E216F"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(minecraft:logs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["18D704844A81A594"]
+			id: "61099D08E6ADF6D8"
+			rewards: [{
+				id: "3ACFEB8919A5D195"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "325FE7577314F8E0"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:chairs)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["18D704844A81A594"]
+			id: "1493F5DC36C9DB44"
+			rewards: [{
+				id: "5BED9F941158D7C9"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "25D4FF41F595027E"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:tables)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["18D704844A81A594"]
+			id: "342333969842A440"
+			rewards: [{
+				id: "1C0B2FB48A21886B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "69C7FAC070449467"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:side_tables)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["18D704844A81A594"]
+			id: "6A1192879B41B9F7"
+			rewards: [{
+				id: "5C6D3420DB61C2D2"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "61C327F2222D1FC5"
+				item: { components: { "ftbfiltersystem:filter": "ftbfiltersystem:item_tag(handcrafted:couches)" }, count: 1, id: "ftbfiltersystem:smart_filter" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["18D704844A81A594"]
+			id: "0644AFDD849DEB79"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "2EEC0A67475B27AE"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				id: "2247073DC23E49B2"
+				item: { count: 1, id: "cookingforblockheads:sink" }
+				type: "item"
+			}]
+			x: 2.5d
+			y: -0.5d
+		}
+	]
+}

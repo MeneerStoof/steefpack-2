@@ -1,0 +1,220 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "steefpack_tip"
+	group: "72E0928224C8B474"
+	icon: {
+		id: "minecraft:diamond_pickaxe"
+	}
+	id: "3E8DEEEBAD43DF24"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "3F60C6CEA7227A8E"
+			rewards: [{
+				id: "62AD56E2A6844C1B"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "7426618A8309F6D3"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3F60C6CEA7227A8E"]
+			id: "3719695C1DD9C8A7"
+			rewards: [
+				{
+					id: "29A1A4588D263404"
+					type: "xp"
+					xp: 150
+				}
+				{
+					exclude_from_claim_all: true
+					id: "743B3834A35DB335"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "40DC4002D1BF61B5"
+				item: { count: 1, id: "buildinggadgets2:gadget_building" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: -2.5d
+		}
+		{
+			dependencies: ["3F60C6CEA7227A8E"]
+			id: "0C35349D8D6E570F"
+			rewards: [
+				{
+					id: "37FC217A9D642055"
+					type: "xp"
+					xp: 150
+				}
+				{
+					exclude_from_claim_all: true
+					id: "62F4734B0F9FE7A8"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "10ED928ED5B0F303"
+				item: { count: 1, id: "buildinggadgets2:gadget_destruction" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3F60C6CEA7227A8E"]
+			id: "035C2929BBA62BE8"
+			rewards: [
+				{
+					id: "34A8E8ADDF75F2C4"
+					type: "xp"
+					xp: 150
+				}
+				{
+					exclude_from_claim_all: true
+					id: "7A9B0849F19856E7"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "6FB391613E2F71A3"
+				item: { count: 1, id: "buildinggadgets2:gadget_exchanging" }
+				type: "item"
+			}]
+			x: -2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3F60C6CEA7227A8E"]
+			id: "7ED821832E261C54"
+			rewards: [
+				{
+					id: "30A29F194B83FC8C"
+					type: "xp"
+					xp: 150
+				}
+				{
+					exclude_from_claim_all: true
+					id: "1CAB0EE5E54E73A8"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "75A09641ECE50695"
+				item: { count: 1, id: "buildinggadgets2:gadget_copy_paste" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3F60C6CEA7227A8E"]
+			id: "4A3D196A43D4458A"
+			rewards: [
+				{
+					id: "56464BFF38FD5CF7"
+					type: "xp"
+					xp: 150
+				}
+				{
+					exclude_from_claim_all: true
+					id: "272A18CF02C945D4"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+			]
+			tasks: [{
+				id: "3ED5B660E475FE28"
+				item: { components: { "buildinggadgets2:paste_replace_toggle": 1b }, count: 1, id: "buildinggadgets2:gadget_cut_paste" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -0.5d
+		}
+		{
+			dependencies: ["3F60C6CEA7227A8E"]
+			id: "6894FFA85B68981A"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "00E1C00CBD909D0E"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+				{
+					id: "63483EDD7190D6CE"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tasks: [{
+				id: "5ADF0CC81F84325A"
+				item: { count: 1, id: "cookingforblockheads:sink" }
+				type: "item"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["3F60C6CEA7227A8E"]
+			id: "6E33A1DB532DC54D"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "147FFD397FA2A115"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+				{
+					id: "28F516D333A0F23B"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tasks: [{
+				id: "597381022527A449"
+				item: { components: { "easy_villagers:villager": { } }, count: 1, id: "easy_villagers:villager" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["3F60C6CEA7227A8E"]
+			id: "3469886E5F532A4C"
+			rewards: [
+				{
+					exclude_from_claim_all: true
+					id: "5CBF9F275400FFBE"
+					table_id: 8479407067533497321L
+					type: "random"
+				}
+				{
+					id: "2460D350BD2A5072"
+					type: "xp"
+					xp: 150
+				}
+			]
+			tasks: [{
+				id: "1BC99510EA84B3A7"
+				item: { components: { "relics:charge": 10, "relics:data": { abilities: { abilities: { autophagy: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 5 }, points: 0, research: { links: { }, researched: 0b }, stats: { feed: { initialValue: 1.31539d } } }, infusion: { extender: { cooldown: 0, cooldownCap: 0, ticking: 0b }, lock: { breaks: 0 }, points: 0, research: { links: { }, researched: 0b }, stats: { duration: { initialValue: 2.2475d } } } } }, leveling: { experience: 0, level: 0, luck: 0, points: 0 } } }, count: 1, id: "relics:infinity_ham" }
+				type: "item"
+			}]
+			x: 1.5d
+			y: 1.0d
+		}
+	]
+}

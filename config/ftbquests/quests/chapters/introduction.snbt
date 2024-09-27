@@ -64,6 +64,7 @@
 			icon: {
 				id: "minecraft:grass_block"
 			}
+			icon_scale: 2.0d
 			id: "70B2397E6F08C803"
 			rewards: [
 				{
@@ -203,6 +204,7 @@
 			icon: {
 				id: "minecraft:netherrack"
 			}
+			icon_scale: 2.0d
 			id: "7BC82DCF9B60043D"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -215,14 +217,15 @@
 				id: "007B2F4EB5C12B7A"
 				type: "dimension"
 			}]
-			x: 2.0d
-			y: 0.0d
+			x: 2.5d
+			y: -3.5d
 		}
 		{
-			dependencies: ["70B2397E6F08C803"]
+			dependencies: ["409B115A4A598CE5"]
 			icon: {
 				id: "twilightforest:ironwood_block"
 			}
+			icon_scale: 2.0d
 			id: "5B054DFBD6E015F3"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -235,11 +238,12 @@
 				id: "72EA0952CD52D2E7"
 				type: "dimension"
 			}]
-			x: 3.0d
-			y: 0.0d
+			x: -1.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["7BC82DCF9B60043D"]
+			icon_scale: 2.0d
 			id: "6759C67F6465A39C"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -255,14 +259,15 @@
 				id: "0CA7C7DC6E210915"
 				type: "dimension"
 			}]
-			x: 2.0d
-			y: 1.5d
+			x: 2.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["70B2397E6F08C803"]
 			icon: {
 				id: "minecraft:iron_ore"
 			}
+			icon_scale: 2.0d
 			id: "49D6B419D6B907D5"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -275,11 +280,12 @@
 				id: "47EF4C06EE846FA8"
 				type: "dimension"
 			}]
-			x: 0.0d
-			y: 0.0d
+			x: -0.5d
+			y: -3.5d
 		}
 		{
 			dependencies: ["49D6B419D6B907D5"]
+			icon_scale: 2.0d
 			id: "65D93C26112DF787"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -295,11 +301,12 @@
 				id: "3448DEB4E70AB5DD"
 				type: "dimension"
 			}]
-			x: 0.0d
-			y: 1.5d
+			x: -0.5d
+			y: -5.0d
 		}
 		{
 			dependencies: ["65D93C26112DF787"]
+			icon_scale: 2.0d
 			id: "407B0CB9897645E7"
 			rewards: [
 				{
@@ -323,14 +330,15 @@
 				id: "2778BCB7F46A3EB6"
 				type: "dimension"
 			}]
-			x: 0.0d
-			y: 3.0d
+			x: -0.5d
+			y: -6.5d
 		}
 		{
-			dependencies: ["70B2397E6F08C803"]
+			dependencies: ["409B115A4A598CE5"]
 			icon: {
 				id: "undergarden:depthrock"
 			}
+			icon_scale: 2.0d
 			id: "71BBE8110D5EFCE8"
 			rewards: [{
 				exclude_from_claim_all: true
@@ -350,8 +358,8 @@
 					type: "item"
 				}
 			]
-			x: -1.0d
-			y: 0.0d
+			x: 3.0d
+			y: 1.0d
 		}
 		{
 			dependencies: ["2D121172FF49C36C"]
@@ -372,6 +380,9 @@
 		}
 		{
 			dependencies: ["02451A11D372E7E2"]
+			icon: {
+				id: "justdirethings:gooblock_tier1"
+			}
 			id: "2D121172FF49C36C"
 			rewards: [{
 				id: "5A452ED4F3C10CA3"
@@ -436,6 +447,68 @@
 			}]
 			x: 12.0d
 			y: -1.5d
+		}
+		{
+			dependencies: ["409B115A4A598CE5"]
+			icon_scale: 2.0d
+			id: "71E31259A4E46433"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "4E0E56ABC36881F1"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				dimension: "the_bumblezone:the_bumblezone"
+				icon: {
+					id: "minecraft:bee_nest"
+				}
+				id: "70046F6180473720"
+				type: "dimension"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["409B115A4A598CE5"]
+			icon_scale: 2.0d
+			id: "39E5B87CA60E99E5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "5ED4D026501E3F81"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				dimension: "eternal_starlight:starlight"
+				icon: {
+					id: "eternal_starlight:lunar_leaves"
+				}
+				id: "587BDE2A933005EA"
+				type: "dimension"
+			}]
+			x: -1.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["70B2397E6F08C803"]
+			icon: {
+				id: "minecraft:stone"
+			}
+			icon_scale: 2.0d
+			id: "409B115A4A598CE5"
+			rewards: [{
+				exclude_from_claim_all: true
+				id: "27711255A53D2AF9"
+				table_id: 8479407067533497321L
+				type: "random"
+			}]
+			tasks: [{
+				id: "667DDD3789FA31A0"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.0d
 		}
 	]
 }

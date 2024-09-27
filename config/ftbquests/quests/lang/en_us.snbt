@@ -4,10 +4,13 @@
 	chapter.1B5B7E9883FA7A92.title: "Just Dire Things"
 	chapter.2009FDF0B1122FCC.title: "Applied Energistics 2"
 	chapter.33129172F8F62C22.title: "When Dungeons Arise"
+	chapter.3E8DEEEBAD43DF24.title: "SteefPack: Tips"
 	chapter.4B4C8D4018390F62.title: "Mekanism"
-	chapter.63775E26BC5D7587.title: "SteefPack: Basics"
+	chapter.63775E26BC5D7587.title: "SteefPack: Extra"
 	chapter.6AADF526B785AD13.title: "Extreme Reactors"
+	chapter.77BD1ABCF16E7724.title: "SteefPack: Building Tips"
 	chapter_group.1EF4E84771D58ACD.title: "Main Questline"
+	chapter_group.58B2934ED8E33FC2.title: "Magic Questline"
 	chapter_group.72E0928224C8B474.title: "Extra Questline"
 	chapter_group.7B70B7BD86810561.title: "Tech Questline"
 	quest.01C2780095D3E29C.quest_desc: [
@@ -39,6 +42,8 @@
 	]
 	quest.063393C529D1C14E.quest_subtitle: "Information"
 	quest.063393C529D1C14E.title: "Understanding Just Dire Things"
+	quest.0644AFDD849DEB79.quest_subtitle: "Unlimited Water"
+	quest.0644AFDD849DEB79.title: "Make a Sink"
 	quest.0A59379E77354148.quest_desc: ["In your looting of a meteorite, you will have found four \"presses\" from breaking the Mysterious Cube. These are used in the Inscriber to make the three types of processor."]
 	quest.0A59379E77354148.quest_subtitle: "The 4 must have things"
 	quest.0A59379E77354148.title: "Breaking the Mysterios Cube"
@@ -79,9 +84,11 @@
 	quest.132000F6873F14AB.quest_subtitle: "Must have for your system"
 	quest.138EC8CB86C1FA1A.quest_desc: [""]
 	quest.138EC8CB86C1FA1A.quest_subtitle: "Tier 2: Changes to Blazegold"
+	quest.1493F5DC36C9DB44.title: "Make a Table"
 	quest.189DB307F0AB4FDC.quest_desc: ["This is a must have because this is Minecraft not Craft"]
 	quest.189DB307F0AB4FDC.quest_subtitle: "or Crafting Table if you prefer that"
 	quest.189DB307F0AB4FDC.title: "Make a workbench"
+	quest.18D704844A81A594.title: "Welcome to Building Tips"
 	quest.1D7D9AE958EDFC24.quest_desc: [
 		"The Atomic Disassembler is Mekanism's an all-in-one tool, essentially the ultimate, electronic version of the paxel. "
 		""
@@ -129,8 +136,9 @@
 	quest.2AA09582AEE89E9B.title: "Find a Meteorite"
 	quest.2ACBDDCED34566D9.quest_subtitle: "Kill The Wither"
 	quest.2ACBDDCED34566D9.title: "Withered Away"
-	quest.2D121172FF49C36C.quest_desc: ["If you want to explore or do a specific mod use the other questlines from this modpack"]
-	quest.2D121172FF49C36C.quest_subtitle: "Unlocks the Modded Quest's except Extra's"
+	quest.2D121172FF49C36C.quest_desc: ["Now you can learn about a other a mod called Just Dire Things"]
+	quest.2D121172FF49C36C.quest_subtitle: "Unlocks Just Dire Things questline"
+	quest.2D121172FF49C36C.title: "Just Dire Things"
 	quest.2E1344847A885C62.quest_desc: ["This is all the non reactor based power options"]
 	quest.2E1344847A885C62.quest_subtitle: "All The Power options"
 	quest.2F2E698D224452D0.title: "Get your basic Mettalurgic Infuser"
@@ -146,6 +154,7 @@
 	quest.32F6626F905D2D65.title: "Get your first machine"
 	quest.337EAB2BEA0A93E3.quest_desc: ["Diamond Pickaxe can't mine all things but almost everything with ores or stone based blocks are minable with this tool"]
 	quest.337EAB2BEA0A93E3.quest_subtitle: "The almost ultimate tool"
+	quest.342333969842A440.title: "Make a Side Table"
 	quest.39ACA4076BD946C4.quest_desc: [
 		"Wrenches are used to rotate ae2 devices (right-click), and disassemble ae2 blocks (shift-right-click). Subparts can be removed from a cable without breaking everything on the cable (or the cable can be removed without breaking the subparts.)"
 		""
@@ -153,6 +162,7 @@
 	]
 	quest.39ACA4076BD946C4.quest_subtitle: "Rotating"
 	quest.39ACA4076BD946C4.title: "Wrench"
+	quest.39E5B87CA60E99E5.quest_subtitle: "Altenative for the Twilight Forest"
 	quest.3AF7801F6E6C940D.quest_desc: [
 		"The Purification Chamber uses oxygen to refine Ores and shards into clumps. Each ore makes 3 clumps, whereas each shard only gives one clump."
 		""
@@ -187,6 +197,12 @@
 	quest.3DD3FA8185BAF44B.title: "Get started"
 	quest.3F14F8AA586FB9C1.quest_desc: ["The energized smelter is your basic electric furnace that uses energy instead of fuel to smelt items. "]
 	quest.3F14F8AA586FB9C1.quest_subtitle: "Alternative furnace"
+	quest.3F60C6CEA7227A8E.quest_desc: ["This are handy tip what you better can have in your base"]
+	quest.3F60C6CEA7227A8E.quest_subtitle: "Get started"
+	quest.407B0CB9897645E7.quest_desc: ["Here you can find End ores"]
+	quest.407B0CB9897645E7.quest_subtitle: "The End of Mining?"
+	quest.409B115A4A598CE5.quest_desc: ["This are the special realms you can go to in &2&lSteefPack 2&r&r"]
+	quest.409B115A4A598CE5.quest_subtitle: "Special Realms"
 	quest.40B3FE6591FD71AC.quest_desc: [
 		"The ME Chest acts like a miniature network with a ME Terminal, ME Drive, and Energy Acceptor. While it can be used as a tiny storage network, its capacity for just one single storage cell means it has limited utility as such."
 		""
@@ -208,6 +224,21 @@
 	quest.46890999452A4DD1.quest_desc: ["Now that you have all of the basic materials and machines for Applied Energistics 2, you can make your first ME (Matter Energy) system. This will be a very basic one, no autocrafting, no logistics, just nice, simple, searchable storage."]
 	quest.46890999452A4DD1.quest_subtitle: "Time to go into the grid"
 	quest.46890999452A4DD1.title: "Your Very First ME System"
+	quest.49D6B419D6B907D5.quest_desc: [
+		"This is a special realm where al the Overworld ores are:"
+		"example of ores are:"
+		"- Coal"
+		"- Redstone"
+		"- Iron"
+		"- Gold"
+		"- Diamond"
+		"- Tin (Mekanism)"
+		"- Copper"
+		"- Osmium (Mekanism)"
+		""
+		"and much more"
+	]
+	quest.49D6B419D6B907D5.quest_subtitle: "Diggy Diggy Hole"
 	quest.49D6B419D6B907D5.title: "Mining Dim (Overworld)"
 	quest.4B0A8CD17F3A5326.quest_desc: [
 		"The Osmium Ingot is acquired by smelting Osmium Ore or Osmium Dust. It is heavily used in crafting your first machines. "
@@ -268,9 +299,18 @@
 	]
 	quest.60487292B87CB1DC.quest_subtitle: "Steel time"
 	quest.60487292B87CB1DC.title: "Creating your first Steel and casing"
+	quest.61099D08E6ADF6D8.title: "Make a Chair"
 	quest.61A50C3DF144CB71.quest_desc: [""]
 	quest.61A50C3DF144CB71.quest_subtitle: "Tier 3: Changes to Celestigem"
 	quest.6248EA7F64D56D20.quest_subtitle: "Tier 4: Changes to Eclipse"
+	quest.65D93C26112DF787.quest_desc: [
+		"Nether ores are here"
+		""
+		"- Ancient Debris"
+		"- Nether Gold"
+		"- Nether Quartz"
+	]
+	quest.65D93C26112DF787.quest_subtitle: "Mining in a Special Nether"
 	quest.65D93C26112DF787.title: "Mining Dim (Nether)"
 	quest.66E1B880F79905F6.quest_desc: ["Cells can be made with a storage component and a housing or with the housing recipe around a storage component:"]
 	quest.66E1B880F79905F6.quest_subtitle: "Must have for your Disk Drive"
@@ -279,10 +319,11 @@
 		"The realm where the dragon lives."
 		"You can't go back until you defeated the dragon."
 	]
-	quest.6759C67F6465A39C.quest_subtitle: "Slay the dragon"
+	quest.6759C67F6465A39C.quest_subtitle: "Slay the Dragon"
 	quest.6759C67F6465A39C.title: "The End?"
 	quest.69E4E7D8880921B5.quest_subtitle: "Do I hear boss music?"
 	quest.69E4E7D8880921B5.title: "10m blocks walked"
+	quest.6A1192879B41B9F7.title: "Make a Couch"
 	quest.6A9848B999560236.quest_desc: ["Use shift right click and put the villagers in a &lTrader&r block for handy trading"]
 	quest.6A9848B999560236.quest_subtitle: "Use this for a trading hall"
 	quest.6A9848B999560236.title: "Easy Villager's"
@@ -316,7 +357,9 @@
 		""
 		"The Catalyst is an item used to activate the Undergarden portal. "
 	]
-	quest.71BBE8110D5EFCE8.quest_subtitle: "Spooky"
+	quest.71BBE8110D5EFCE8.quest_subtitle: "Such as Mystery"
+	quest.71E31259A4E46433.quest_desc: ["The Bumblezone is a bee dimension filled with many brand new bee-related blocks! There's even quite a few structures to explore and a unique bee armor you can obtain! If you are lucky, you may find a special Throne-Locating Honey Compasses from certain structures that leads you to a Bee Queen!"]
+	quest.71E31259A4E46433.quest_subtitle: "Not the bees"
 	quest.73A5887D57633E1E.title: "Time to get more sun!"
 	quest.73E7DCD3CD74FD41.quest_desc: ["Great for your hunger bar always carry this with you"]
 	quest.73E7DCD3CD74FD41.quest_subtitle: "Unlimited Food"
@@ -332,7 +375,7 @@
 	quest.78CCB86E64B15329.quest_subtitle: "Tier 1: Changes to Ferricore"
 	quest.7BC82DCF9B60043D.quest_desc: ["The most well know realm of vanilla Minecraft"]
 	quest.7BC82DCF9B60043D.quest_subtitle: "Piglin's where?!"
-	quest.7BC82DCF9B60043D.title: "Nether"
+	quest.7BC82DCF9B60043D.title: "The Nether"
 	quest.7D088ECB4EB12717.quest_subtitle: "Just a basic smelter"
 	quest.7D088ECB4EB12717.title: "Go to the basic's"
 	quest.7FA5F5B4BEB9351B.quest_desc: [
@@ -369,6 +412,7 @@
 	task.2011CB4786418B3D.title: "Lighthouse"
 	task.24C107BA769D6CB8.title: "Abandoned Temple"
 	task.25665BADF3343BBF.title: "Coliseum"
+	task.25D4FF41F595027E.title: "Any #handcrafted:tables"
 	task.262001DA801B9AB6.title: "Illager Corsair"
 	task.270A79CF8291245F.title: "Keep Kayra"
 	task.2778BCB7F46A3EB6.title: "Mining Dim (The End)"
@@ -379,6 +423,7 @@
 	task.2ED954C6A9966BAC.title: "Wishing Well"
 	task.2FECB242C6683F3B.title: "Illager Galley"
 	task.315AA49C03A31950.title: "Heavenly Conqueror"
+	task.325FE7577314F8E0.title: "Any #handcrafted:chairs"
 	task.352F62BD6EB2EDB5.title: "Thornborn Towers"
 	task.3741268DE471C673.title: "Mining System"
 	task.3780D9DDEA64D28A.title: "Seven Seas: Small Yacht"
@@ -398,16 +443,23 @@
 	task.4F9B545516743758.title: "Small Prairie House"
 	task.4FDAC8D0E296982D.title: "Understanding"
 	task.5275CDE16ED17C87.title: "Alloys"
+	task.5451149F4C8E216F.title: "Any #minecraft:logs"
 	task.57BFCB6F847C4EE2.title: "When Dungeons Arise"
+	task.587BDE2A933005EA.title: "Starlight"
 	task.59267D21E85D6000.title: "Plague Asylum"
 	task.5BD6076BB64EEB38.title: "Illager Campsite"
 	task.5EFEBFEA03D95B48.title: "Bandit Towers"
 	task.5F934C6EF9C6FEF0.title: "The Undergranden"
 	task.5FE3C92E04393623.title: "Illager Windmill"
 	task.604688A080D51E5E.title: "Undead Pirate Ship"
+	task.61C327F2222D1FC5.title: "Any #handcrafted:couches"
+	task.667DDD3789FA31A0.title: "Other Realms"
+	task.69C7FAC070449467.title: "Any #handcrafted:side_tables"
+	task.70046F6180473720.title: "The Bumblezone"
 	task.70F0F332954CA260.title: "Jungle Tree House"
 	task.72683608C06DACE2.title: "Fishing Hut"
 	task.7323EEE6A3F7C81F.title: "Merchant Campsite"
+	task.7426618A8309F6D3.title: "Tips"
 	task.75D10BDE7E80CED4.title: "Mushroom Mines"
 	task.76BFE21FFB872665.title: "Seven Seas: Victory Frigate"
 	task.7EE55BE0D554241C.title: "Giant Mushroom"
