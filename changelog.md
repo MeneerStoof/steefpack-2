@@ -1,3 +1,5 @@
+#changelog
+
 v1
   First release
   NeoForge version is 21.1.56
