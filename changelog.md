@@ -1,6 +1,7 @@
 v1
   First release
   NeoForge version is 21.1.56
+
 v2
   Added Roots classic
   Removed MineTogether and replaced with e4mc.
@@ -9,9 +10,11 @@ v2
   The Memory check mod is removed
   Added some quests and fixed with Mob kills questline
   NeoForge version is 21.1.58
+
 v2hf
   Bug Fixed: books such as MI Guidebook and other font books
   NeoForge version is 21.1.58 Server pack is not needed to be updated
+
 v3
   Mods updated
   Quest's worked on
@@ -19,6 +22,7 @@ v3
   Added Sodium Dynamic Light
   Added my own mod to SteefPack (SteefTweaks)
   NeoForge version 21.1.61
+
 v4
   Added Mekanism Quest's
   Added When Dungeons Arise Quest's
@@ -27,6 +31,7 @@ v4
   worked on Introduction Quest line
   Updated some mods
   NeoForge version 21.1.61
+
 v5
   MAJOR QUEST UPDATE
   Added Just Dire Things Quest line
@@ -37,11 +42,13 @@ v5
   Added Enchantment Descriptions
   Updated some mods
   NeoForge version is 21.1.61
+
 v5hf
   Hotfix version
   v5 doens't have the KubeJS folder
   Server Pack is on v5 to find when approved (KubeJS included)
   NeoForge version is 21.1.61
+
 v5.5
   Client side edits
   Simple RPC edited
