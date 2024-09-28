@@ -1,10 +1,9 @@
-# steefpack-2
-- SteefPack 2
+# SteefPack 2
 
 This is the second edition of SteefPack now on 1.21 NeoForge
 This is a modpack with Tech, Magic and Exploration in mind and not to forget seasons
 
-- It's also a Kitchensink modpack
+# It's also a Kitchensink modpack
 
 This modpack offers:
 
@@ -17,6 +16,6 @@ This modpack offers:
     Quest's more to come in updates
 
 
-- This modpack is better to be played at 8GB RAM
+# This modpack is better to be played at 8GB RAM
 
 https://www.curseforge.com/minecraft/modpacks/steefpack-2
