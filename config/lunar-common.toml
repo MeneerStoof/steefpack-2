@@ -2,7 +2,7 @@
 [General]
 	#Chance of a Lunar Event happening when night falls [Default: 0.4]
 	#Range: 0.0 ~ 1.0
-	lunarEventChance = 0.4
+	lunarEventChance = 0.1
 
 #Event settings
 [Events]
@@ -20,7 +20,7 @@
 	whiteMoonWeight = 0
 	#Weight of the Tiny Moon Event [Default: 10]
 	#Range: 0 ~ 100
-	tinyMoonWeight = 10
+	tinyMoonWeight = 0
 	#Weight of the Big Moon Event [Default: 10]
 	#Range: 0 ~ 100
 	bigMoonWeight = 0
