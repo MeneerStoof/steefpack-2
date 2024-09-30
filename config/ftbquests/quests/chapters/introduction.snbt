@@ -141,24 +141,6 @@
 		}
 		{
 			dependencies: ["189DB307F0AB4FDC"]
-			id: "53F0D0495A1734FD"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "08458CA9638DA207"
-				table_id: 8479407067533497321L
-				type: "random"
-			}]
-			shape: "diamond"
-			tasks: [{
-				id: "0753F84DDED503EE"
-				item: { count: 1, id: "crafting_on_a_stick:crafting_table" }
-				type: "item"
-			}]
-			x: 6.0d
-			y: -3.0d
-		}
-		{
-			dependencies: ["189DB307F0AB4FDC"]
 			id: "02451A11D372E7E2"
 			rewards: [{
 				id: "0F98B7A28ED27FE9"
@@ -467,27 +449,6 @@
 				type: "dimension"
 			}]
 			x: 1.0d
-			y: 3.0d
-		}
-		{
-			dependencies: ["409B115A4A598CE5"]
-			icon_scale: 2.0d
-			id: "39E5B87CA60E99E5"
-			rewards: [{
-				exclude_from_claim_all: true
-				id: "5ED4D026501E3F81"
-				table_id: 8479407067533497321L
-				type: "random"
-			}]
-			tasks: [{
-				dimension: "eternal_starlight:starlight"
-				icon: {
-					id: "eternal_starlight:lunar_leaves"
-				}
-				id: "587BDE2A933005EA"
-				type: "dimension"
-			}]
-			x: -1.0d
 			y: 3.0d
 		}
 		{

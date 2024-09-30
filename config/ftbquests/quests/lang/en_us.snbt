@@ -162,7 +162,6 @@
 	]
 	quest.39ACA4076BD946C4.quest_subtitle: "Rotating"
 	quest.39ACA4076BD946C4.title: "Wrench"
-	quest.39E5B87CA60E99E5.quest_subtitle: "Altenative for the Twilight Forest"
 	quest.3AF7801F6E6C940D.quest_desc: [
 		"The Purification Chamber uses oxygen to refine Ores and shards into clumps. Each ore makes 3 clumps, whereas each shard only gives one clump."
 		""
@@ -259,8 +258,6 @@
 	quest.531C2896425A9960.title: "Applied Energisitics 2 Quest info"
 	quest.5369A28C3CF43C36.quest_subtitle: "Your first Uranium and Fluorite"
 	quest.5369A28C3CF43C36.title: "Get your Ores"
-	quest.53F0D0495A1734FD.quest_desc: ["Always handy for on the road and your adventure"]
-	quest.53F0D0495A1734FD.quest_subtitle: "Or make that"
 	quest.56172C8610559FC5.quest_desc: ["This is the best pickaxe from vanilla Minecraft it mines all ores and stone based stuff. Best tip is get a mending book"]
 	quest.56172C8610559FC5.quest_subtitle: "The ultimate vanilla tool"
 	quest.57E0CA3B97AB9083.quest_desc: ["The inscriber is a sided machine, much like the vanilla furnace. Inserting from the top or bottom places items in the top or bottom slots, and inserting from the side or back inserts into the center slot. Results can be pulled from the side or back."]
