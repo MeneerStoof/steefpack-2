@@ -2,7 +2,7 @@
 #General Config Section. See https://readme.firstdarkdev.xyz/simple-rpc/introduction/
 [general]
 	#The Application ID of the Discord App to use
-	applicationID = 1289293451635982367
+	applicationID = 1290697561677631592
 	#Enable/Disable the mod
 	enabled = true
 	#Enable/Disable debugging mode. WARNING: MAY CAUSE LOG SPAM!
@@ -193,7 +193,7 @@
 #Dimension Information Overrides
 [dimension_overrides]
 	#Allows you to override the displayed values for dimensions
-	enabled = false
+	enabled = true
 
 	#The Dimensions to override
 	[[dimension_overrides.dimensions]]
